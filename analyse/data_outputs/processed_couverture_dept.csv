@@ -1,0 +1,889 @@
+Année,Département Code,Département,Région,Région Code,Grippe moins de 65 ans à risque,Grippe 65 ans et plus,Grippe 65-74 ans,Grippe 75 ans et plus,coverage_gap_65plus,low_coverage,coverage_change_yoy,priority_level
+2016,01,Ain,Auvergne et Rhône-Alpes,84,28.4,46.8,,,28.200000000000003,True,,high
+2017,01,Ain,Auvergne et Rhône-Alpes,84,28.7,46.6,,,28.4,True,-0.19999999999999574,high
+2019,01,Ain,Auvergne et Rhône-Alpes,84,28.8,49.6,,,25.4,True,3.0,high
+2020,01,Ain,Auvergne et Rhône-Alpes,84,39.2,57.9,,,17.1,False,8.299999999999997,medium
+2021,01,Ain,Auvergne et Rhône-Alpes,84,34.5,55.2,,,19.799999999999997,False,-2.6999999999999957,medium
+2022,01,Ain,Auvergne et Rhône-Alpes,84,31.2,54.5,48.56931640285267,61.32251307173372,20.5,False,-0.7000000000000028,medium
+2023,01,Ain,Auvergne et Rhône-Alpes,84,24.8,51.8,44.541575606202514,59.940791005555006,23.200000000000003,False,-2.700000000000003,medium
+2024,01,Ain,Auvergne et Rhône-Alpes,84,24.7,51.2,44.2,58.5,23.799999999999997,False,-0.5999999999999943,medium
+2016,02,Aisne,Hauts-de-France,32,34.8,54.4,,,20.6,False,,medium
+2017,02,Aisne,Hauts-de-France,32,34.4,53.3,,,21.700000000000003,False,-1.1000000000000014,medium
+2019,02,Aisne,Hauts-de-France,32,34.3,54.1,,,20.9,False,0.8000000000000043,medium
+2020,02,Aisne,Hauts-de-France,32,42.3,61.6,,,13.399999999999999,False,7.5,medium
+2021,02,Aisne,Hauts-de-France,32,40.2,58.8,,,16.200000000000003,False,-2.8000000000000043,medium
+2022,02,Aisne,Hauts-de-France,32,36.5,57.3,53.332130940571744,62.09388242964251,17.700000000000003,False,-1.5,medium
+2023,02,Aisne,Hauts-de-France,32,29.6,56.2,50.16026400138948,63.355337608449645,18.799999999999997,False,-1.0999999999999943,medium
+2024,02,Aisne,Hauts-de-France,32,28.2,55.2,49.6,61.4,19.799999999999997,False,-1.0,medium
+2016,03,Allier,Auvergne et Rhône-Alpes,84,31.3,51.5,,,23.5,False,,medium
+2017,03,Allier,Auvergne et Rhône-Alpes,84,31.7,51.3,,,23.700000000000003,False,-0.20000000000000284,medium
+2019,03,Allier,Auvergne et Rhône-Alpes,84,31.4,52.9,,,22.1,False,1.6000000000000014,medium
+2020,03,Allier,Auvergne et Rhône-Alpes,84,42.1,61.8,,,13.200000000000003,False,8.899999999999999,medium
+2021,03,Allier,Auvergne et Rhône-Alpes,84,38.0,57.8,,,17.200000000000003,False,-4.0,medium
+2022,03,Allier,Auvergne et Rhône-Alpes,84,34.8,57.1,50.78942441703242,63.29152646069134,17.9,False,-0.6999999999999957,medium
+2023,03,Allier,Auvergne et Rhône-Alpes,84,27.2,54.0,45.94697692160977,61.85654182478139,21.0,False,-3.1000000000000014,medium
+2024,03,Allier,Auvergne et Rhône-Alpes,84,26.4,53.3,45.6,60.3,21.700000000000003,False,-0.7000000000000028,medium
+2016,04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,93,25.9,45.4,,,29.6,True,,high
+2017,04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,93,26.2,45.0,,,30.0,True,-0.3999999999999986,high
+2019,04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,93,28.9,47.3,,,27.700000000000003,True,2.299999999999997,high
+2020,04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,93,34.8,53.3,,,21.700000000000003,False,6.0,medium
+2021,04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,93,31.9,50.3,,,24.700000000000003,False,-3.0,medium
+2022,04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,93,29.9,50.0,42.81119058704025,57.28382238379641,25.0,False,-0.29999999999999716,medium
+2023,04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,93,21.9,47.7,39.42857142857143,56.14677299864906,27.299999999999997,True,-2.299999999999997,high
+2024,04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,93,21.9,47.1,38.8,55.1,27.9,True,-0.6000000000000014,high
+2016,05,Hautes-Alpes,Provence-Alpes-Côte d'Azur,93,26.1,45.5,,,29.5,True,,high
+2017,05,Hautes-Alpes,Provence-Alpes-Côte d'Azur,93,26.0,45.9,,,29.1,True,0.3999999999999986,high
+2019,05,Hautes-Alpes,Provence-Alpes-Côte d'Azur,93,28.2,48.7,,,26.299999999999997,True,2.8000000000000043,high
+2020,05,Hautes-Alpes,Provence-Alpes-Côte d'Azur,93,36.0,55.0,,,20.0,False,6.299999999999997,medium
+2021,05,Hautes-Alpes,Provence-Alpes-Côte d'Azur,93,32.7,52.6,,,22.4,False,-2.3999999999999986,medium
+2022,05,Hautes-Alpes,Provence-Alpes-Côte d'Azur,93,30.8,52.3,45.79794144099131,59.353212485251525,22.700000000000003,False,-0.30000000000000426,medium
+2023,05,Hautes-Alpes,Provence-Alpes-Côte d'Azur,93,23.4,50.6,42.30672374716696,59.3024494142705,24.4,False,-1.6999999999999957,medium
+2024,05,Hautes-Alpes,Provence-Alpes-Côte d'Azur,93,23.4,50.3,42.5,58.1,24.700000000000003,False,-0.30000000000000426,medium
+2016,06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,93,23.9,46.7,,,28.299999999999997,True,,high
+2017,06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,93,23.8,46.2,,,28.799999999999997,True,-0.5,high
+2019,06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,93,26.3,48.8,,,26.200000000000003,True,2.5999999999999943,high
+2020,06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,93,32.2,54.8,,,20.200000000000003,False,6.0,medium
+2021,06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,93,28.1,51.5,,,23.5,False,-3.299999999999997,medium
+2022,06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,93,25.9,50.4,42.66514134920412,57.183557183557184,24.6,False,-1.1000000000000014,medium
+2023,06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,93,20.4,48.5,39.18871916756036,56.76420736192394,26.5,True,-1.8999999999999986,high
+2024,06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,93,20.5,48.7,39.6,56.3,26.299999999999997,True,0.20000000000000284,high
+2016,07,Ardèche,Auvergne et Rhône-Alpes,84,26.4,46.2,,,28.799999999999997,True,,high
+2017,07,Ardèche,Auvergne et Rhône-Alpes,84,26.2,45.8,,,29.200000000000003,True,-0.4000000000000057,high
+2019,07,Ardèche,Auvergne et Rhône-Alpes,84,27.1,47.9,,,27.1,True,2.1000000000000014,high
+2020,07,Ardèche,Auvergne et Rhône-Alpes,84,36.9,55.0,,,20.0,False,7.100000000000001,medium
+2021,07,Ardèche,Auvergne et Rhône-Alpes,84,33.3,51.7,,,23.299999999999997,False,-3.299999999999997,medium
+2022,07,Ardèche,Auvergne et Rhône-Alpes,84,30.7,51.5,44.745986364636025,58.7462602842184,23.5,False,-0.20000000000000284,medium
+2023,07,Ardèche,Auvergne et Rhône-Alpes,84,23.6,49.3,40.8089627369312,58.34870630528357,25.700000000000003,True,-2.200000000000003,high
+2024,07,Ardèche,Auvergne et Rhône-Alpes,84,23.4,48.6,40.7,56.4,26.4,True,-0.6999999999999957,high
+2016,08,Ardennes,Grand Est,44,36.2,57.7,,,17.299999999999997,False,,medium
+2017,08,Ardennes,Grand Est,44,35.3,56.7,,,18.299999999999997,False,-1.0,medium
+2019,08,Ardennes,Grand Est,44,34.7,56.1,,,18.9,False,-0.6000000000000014,medium
+2020,08,Ardennes,Grand Est,44,42.8,63.0,,,12.0,False,6.899999999999999,medium
+2021,08,Ardennes,Grand Est,44,41.3,62.0,,,13.0,False,-1.0,medium
+2022,08,Ardennes,Grand Est,44,37.4,61.1,56.274982365389135,66.8580394394323,13.899999999999999,False,-0.8999999999999986,medium
+2023,08,Ardennes,Grand Est,44,29.2,58.1,51.65278070201824,65.75072546841973,16.9,False,-3.0,medium
+2024,08,Ardennes,Grand Est,44,28.8,56.9,51.0,63.5,18.1,False,-1.2000000000000028,medium
+2016,09,Ariège,Occitanie,76,22.4,45.7,,,29.299999999999997,True,,high
+2017,09,Ariège,Occitanie,76,21.7,45.1,,,29.9,True,-0.6000000000000014,high
+2019,09,Ariège,Occitanie,76,24.8,48.3,,,26.700000000000003,True,3.1999999999999957,high
+2020,09,Ariège,Occitanie,76,33.8,55.2,,,19.799999999999997,False,6.900000000000006,medium
+2021,09,Ariège,Occitanie,76,31.4,51.5,,,23.5,False,-3.700000000000003,medium
+2022,09,Ariège,Occitanie,76,28.6,50.6,43.48665888060372,58.08366308648954,24.4,False,-0.8999999999999986,medium
+2023,09,Ariège,Occitanie,76,23.4,48.1,39.74797972880428,56.764355492018105,26.9,True,-2.5,high
+2024,09,Ariège,Occitanie,76,22.4,47.6,39.5,55.6,27.4,True,-0.5,high
+2018,1,Ain,Auvergne et Rhône-Alpes,84,28.2,48.5,,,26.5,True,,high
+2016,10,Aube,Grand Est,44,30.8,51.3,,,23.700000000000003,False,,medium
+2017,10,Aube,Grand Est,44,30.8,50.8,,,24.200000000000003,False,-0.5,medium
+2018,10,Aube,Grand Est,44,31.0,52.0,,,23.0,False,1.2000000000000028,medium
+2019,10,Aube,Grand Est,44,32.1,52.4,,,22.6,False,0.3999999999999986,medium
+2020,10,Aube,Grand Est,44,39.5,60.4,,,14.600000000000001,False,8.0,medium
+2021,10,Aube,Grand Est,44,36.6,57.4,,,17.6,False,-3.0,medium
+2022,10,Aube,Grand Est,44,33.2,57.1,51.713244228432565,62.96844610874046,17.9,False,-0.29999999999999716,medium
+2023,10,Aube,Grand Est,44,26.1,54.5,47.45432599989027,61.93812025685931,20.5,False,-2.6000000000000014,medium
+2024,10,Aube,Grand Est,44,25.4,53.1,46.6,59.4,21.9,False,-1.3999999999999986,medium
+2016,11,Aude,Occitanie,76,26.7,49.5,,,25.5,True,,high
+2017,11,Aude,Occitanie,76,27.0,48.9,,,26.1,True,-0.6000000000000014,high
+2018,11,Aude,Occitanie,76,27.2,49.0,,,26.0,True,0.10000000000000142,high
+2019,11,Aude,Occitanie,76,28.8,50.6,,,24.4,False,1.6000000000000014,medium
+2020,11,Aude,Occitanie,76,36.5,58.6,,,16.4,False,8.0,medium
+2021,11,Aude,Occitanie,76,32.0,55.0,,,20.0,False,-3.6000000000000014,medium
+2022,11,Aude,Occitanie,76,29.0,53.8,47.29079363917507,60.77830371692403,21.200000000000003,False,-1.2000000000000028,medium
+2023,11,Aude,Occitanie,76,22.9,51.4,43.0653528906804,60.24849589433045,23.6,False,-2.3999999999999986,medium
+2024,11,Aude,Occitanie,76,23.2,51.2,43.3,59.0,23.799999999999997,False,-0.19999999999999574,medium
+2016,12,Aveyron,Occitanie,76,29.3,48.4,,,26.6,True,,high
+2017,12,Aveyron,Occitanie,76,30.7,47.7,,,27.299999999999997,True,-0.6999999999999957,high
+2018,12,Aveyron,Occitanie,76,32.5,49.8,,,25.200000000000003,True,2.0999999999999943,high
+2019,12,Aveyron,Occitanie,76,33.3,50.9,,,24.1,False,1.1000000000000014,medium
+2020,12,Aveyron,Occitanie,76,41.6,60.3,,,14.700000000000003,False,9.399999999999999,medium
+2021,12,Aveyron,Occitanie,76,36.4,56.3,,,18.700000000000003,False,-4.0,medium
+2022,12,Aveyron,Occitanie,76,33.8,55.4,47.99632915264607,62.49147754943022,19.6,False,-0.8999999999999986,medium
+2023,12,Aveyron,Occitanie,76,26.0,52.9,43.74352868088632,61.63197869402249,22.1,False,-2.5,medium
+2024,12,Aveyron,Occitanie,76,25.2,52.4,43.6,60.3,22.6,False,-0.5,medium
+2016,13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,93,25.8,49.1,,,25.9,True,,high
+2017,13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,93,25.9,48.9,,,26.1,True,-0.20000000000000284,high
+2018,13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,93,26.9,50.4,,,24.6,False,1.5,medium
+2019,13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,93,28.1,50.9,,,24.1,False,0.5,medium
+2020,13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,93,35.0,57.3,,,17.700000000000003,False,6.399999999999999,medium
+2021,13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,93,29.0,52.8,,,22.200000000000003,False,-4.5,medium
+2022,13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,93,27.0,52.8,46.50939106711902,59.00942620467588,22.200000000000003,False,0.0,medium
+2023,13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,93,21.5,50.4,41.96085417176958,58.79164539542317,24.6,False,-2.3999999999999986,medium
+2024,13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,93,21.6,50.7,42.6,58.5,24.299999999999997,False,0.30000000000000426,medium
+2016,14,Calvados,Normandie,28,33.2,53.5,,,21.5,False,,medium
+2017,14,Calvados,Normandie,28,33.4,53.1,,,21.9,False,-0.3999999999999986,medium
+2018,14,Calvados,Normandie,28,32.6,54.6,,,20.4,False,1.5,medium
+2019,14,Calvados,Normandie,28,35.2,55.7,,,19.299999999999997,False,1.1000000000000014,medium
+2020,14,Calvados,Normandie,28,44.4,64.5,,,10.5,False,8.799999999999997,medium
+2021,14,Calvados,Normandie,28,39.3,61.8,,,13.200000000000003,False,-2.700000000000003,medium
+2022,14,Calvados,Normandie,28,36.5,61.5,56.60901514472623,67.06219416343399,13.5,False,-0.29999999999999716,medium
+2023,14,Calvados,Normandie,28,30.1,59.6,52.80635469774217,67.10513053119645,15.399999999999999,False,-1.8999999999999986,medium
+2024,14,Calvados,Normandie,28,29.7,59.0,52.9,65.2,16.0,False,-0.6000000000000014,medium
+2016,15,Cantal,Auvergne et Rhône-Alpes,84,35.5,53.2,,,21.799999999999997,False,,medium
+2017,15,Cantal,Auvergne et Rhône-Alpes,84,35.5,52.5,,,22.5,False,-0.7000000000000028,medium
+2018,15,Cantal,Auvergne et Rhône-Alpes,84,34.9,53.3,,,21.700000000000003,False,0.7999999999999972,medium
+2019,15,Cantal,Auvergne et Rhône-Alpes,84,35.2,54.8,,,20.200000000000003,False,1.5,medium
+2020,15,Cantal,Auvergne et Rhône-Alpes,84,47.8,64.1,,,10.900000000000006,False,9.299999999999997,medium
+2021,15,Cantal,Auvergne et Rhône-Alpes,84,42.6,60.0,,,15.0,False,-4.099999999999994,medium
+2022,15,Cantal,Auvergne et Rhône-Alpes,84,39.5,59.7,53.32099051145568,66.15784499054821,15.299999999999997,False,-0.29999999999999716,medium
+2023,15,Cantal,Auvergne et Rhône-Alpes,84,31.1,57.5,49.4149711009821,65.67321514135122,17.5,False,-2.200000000000003,medium
+2024,15,Cantal,Auvergne et Rhône-Alpes,84,29.8,56.5,48.9,63.9,18.5,False,-1.0,medium
+2016,16,Charente,Nouvelle Aquitaine,75,30.3,51.4,,,23.6,False,,medium
+2017,16,Charente,Nouvelle Aquitaine,75,30.9,50.3,,,24.700000000000003,False,-1.1000000000000014,medium
+2018,16,Charente,Nouvelle Aquitaine,75,31.7,51.8,,,23.200000000000003,False,1.5,medium
+2019,16,Charente,Nouvelle Aquitaine,75,33.3,52.3,,,22.700000000000003,False,0.5,medium
+2020,16,Charente,Nouvelle Aquitaine,75,41.0,60.9,,,14.100000000000001,False,8.600000000000001,medium
+2021,16,Charente,Nouvelle Aquitaine,75,37.2,58.9,,,16.1,False,-2.0,medium
+2022,16,Charente,Nouvelle Aquitaine,75,33.9,57.5,51.64137875815685,63.70622856416988,17.5,False,-1.3999999999999986,medium
+2023,16,Charente,Nouvelle Aquitaine,75,27.0,55.2,47.74789437278756,63.014987278985735,19.799999999999997,False,-2.299999999999997,medium
+2024,16,Charente,Nouvelle Aquitaine,75,26.2,54.3,47.3,61.1,20.700000000000003,False,-0.9000000000000057,medium
+2016,17,Charente-Maritime,Nouvelle Aquitaine,75,29.4,51.3,,,23.700000000000003,False,,medium
+2017,17,Charente-Maritime,Nouvelle Aquitaine,75,29.8,50.5,,,24.5,False,-0.7999999999999972,medium
+2018,17,Charente-Maritime,Nouvelle Aquitaine,75,30.9,52.2,,,22.799999999999997,False,1.7000000000000028,medium
+2019,17,Charente-Maritime,Nouvelle Aquitaine,75,32.6,52.6,,,22.4,False,0.3999999999999986,medium
+2020,17,Charente-Maritime,Nouvelle Aquitaine,75,39.4,60.9,,,14.100000000000001,False,8.299999999999997,medium
+2021,17,Charente-Maritime,Nouvelle Aquitaine,75,36.2,58.4,,,16.6,False,-2.5,medium
+2022,17,Charente-Maritime,Nouvelle Aquitaine,75,32.6,58.1,52.36426319749336,64.40252090455986,16.9,False,-0.29999999999999716,medium
+2023,17,Charente-Maritime,Nouvelle Aquitaine,75,26.1,55.7,48.20737509530105,63.65716493954216,19.299999999999997,False,-2.3999999999999986,medium
+2024,17,Charente-Maritime,Nouvelle Aquitaine,75,26.2,55.5,48.4,62.5,19.5,False,-0.20000000000000284,medium
+2016,18,Cher,Centre-Val de Loire,24,30.7,51.7,,,23.299999999999997,False,,medium
+2017,18,Cher,Centre-Val de Loire,24,29.9,51.1,,,23.9,False,-0.6000000000000014,medium
+2018,18,Cher,Centre-Val de Loire,24,30.3,52.3,,,22.700000000000003,False,1.1999999999999957,medium
+2019,18,Cher,Centre-Val de Loire,24,32.4,52.8,,,22.200000000000003,False,0.5,medium
+2020,18,Cher,Centre-Val de Loire,24,41.0,61.4,,,13.600000000000001,False,8.600000000000001,medium
+2021,18,Cher,Centre-Val de Loire,24,36.6,58.3,,,16.700000000000003,False,-3.1000000000000014,medium
+2022,18,Cher,Centre-Val de Loire,24,34.3,57.8,52.261196747178055,63.41572032954799,17.200000000000003,False,-0.5,medium
+2023,18,Cher,Centre-Val de Loire,24,27.2,55.0,47.70612448546838,62.345045202975136,20.0,False,-2.799999999999997,medium
+2024,18,Cher,Centre-Val de Loire,24,26.5,53.7,46.8,60.3,21.299999999999997,False,-1.2999999999999972,medium
+2016,19,Corrèze,Nouvelle Aquitaine,75,30.1,50.8,,,24.200000000000003,False,,medium
+2017,19,Corrèze,Nouvelle Aquitaine,75,30.6,50.0,,,25.0,False,-0.7999999999999972,medium
+2018,19,Corrèze,Nouvelle Aquitaine,75,31.2,51.3,,,23.700000000000003,False,1.2999999999999972,medium
+2019,19,Corrèze,Nouvelle Aquitaine,75,32.4,51.9,,,23.1,False,0.6000000000000014,medium
+2020,19,Corrèze,Nouvelle Aquitaine,75,41.7,60.9,,,14.100000000000001,False,9.0,medium
+2021,19,Corrèze,Nouvelle Aquitaine,75,36.8,57.3,,,17.700000000000003,False,-3.6000000000000014,medium
+2022,19,Corrèze,Nouvelle Aquitaine,75,34.0,56.9,50.53869609409032,63.193796641791046,18.1,False,-0.3999999999999986,medium
+2023,19,Corrèze,Nouvelle Aquitaine,75,26.0,54.1,46.36231841178733,61.84117854208241,20.9,False,-2.799999999999997,medium
+2024,19,Corrèze,Nouvelle Aquitaine,75,26.1,53.6,46.3,60.4,21.4,False,-0.5,medium
+2018,2,Aisne,Hauts-de-France,32,32.7,54.6,,,20.4,False,,medium
+2016,21,Côte-d'Or,Bourgogne et Franche-Comté,27,32.6,53.3,,,21.700000000000003,False,,medium
+2017,21,Côte-d'Or,Bourgogne et Franche-Comté,27,33.2,53.3,,,21.700000000000003,False,0.0,medium
+2018,21,Côte-d'Or,Bourgogne et Franche-Comté,27,34.0,54.7,,,20.299999999999997,False,1.4000000000000057,medium
+2019,21,Côte-d'Or,Bourgogne et Franche-Comté,27,35.9,56.2,,,18.799999999999997,False,1.5,medium
+2020,21,Côte-d'Or,Bourgogne et Franche-Comté,27,44.1,64.5,,,10.5,False,8.299999999999997,medium
+2021,21,Côte-d'Or,Bourgogne et Franche-Comté,27,39.3,60.9,,,14.100000000000001,False,-3.6000000000000014,medium
+2022,21,Côte-d'Or,Bourgogne et Franche-Comté,27,36.2,60.0,54.23780783010038,66.05225360782437,15.0,False,-0.8999999999999986,medium
+2023,21,Côte-d'Or,Bourgogne et Franche-Comté,27,29.5,57.3,49.73980274570055,65.04647757839899,17.700000000000003,False,-2.700000000000003,medium
+2024,21,Côte-d'Or,Bourgogne et Franche-Comté,27,28.6,56.6,49.6,63.3,18.4,False,-0.6999999999999957,medium
+2016,22,Côtes-d'Armor,Bretagne,53,30.3,50.8,,,24.200000000000003,False,,medium
+2017,22,Côtes-d'Armor,Bretagne,53,31.2,51.0,,,24.0,False,0.20000000000000284,medium
+2018,22,Côtes-d'Armor,Bretagne,53,30.1,52.7,,,22.299999999999997,False,1.7000000000000028,medium
+2019,22,Côtes-d'Armor,Bretagne,53,31.9,54.6,,,20.4,False,1.8999999999999986,medium
+2020,22,Côtes-d'Armor,Bretagne,53,39.1,63.9,,,11.100000000000001,False,9.299999999999997,medium
+2021,22,Côtes-d'Armor,Bretagne,53,34.2,60.8,,,14.200000000000003,False,-3.1000000000000014,medium
+2022,22,Côtes-d'Armor,Bretagne,53,31.3,60.4,54.95445037548436,66.36265226642112,14.600000000000001,False,-0.3999999999999986,medium
+2023,22,Côtes-d'Armor,Bretagne,53,25.7,57.6,50.43665606709986,65.35139964264444,17.4,False,-2.799999999999997,medium
+2024,22,Côtes-d'Armor,Bretagne,53,26.0,57.3,50.6,64.1,17.700000000000003,False,-0.30000000000000426,medium
+2016,23,Creuse,Nouvelle Aquitaine,75,33.4,50.9,,,24.1,False,,medium
+2017,23,Creuse,Nouvelle Aquitaine,75,33.8,49.4,,,25.6,True,-1.5,high
+2018,23,Creuse,Nouvelle Aquitaine,75,35.0,50.6,,,24.4,False,1.2000000000000028,medium
+2019,23,Creuse,Nouvelle Aquitaine,75,36.7,52.2,,,22.799999999999997,False,1.6000000000000014,medium
+2020,23,Creuse,Nouvelle Aquitaine,75,45.6,60.9,,,14.100000000000001,False,8.699999999999996,medium
+2021,23,Creuse,Nouvelle Aquitaine,75,40.1,55.6,,,19.4,False,-5.299999999999997,medium
+2022,23,Creuse,Nouvelle Aquitaine,75,36.6,54.9,49.61374317973097,60.38556871385293,20.1,False,-0.7000000000000028,medium
+2023,23,Creuse,Nouvelle Aquitaine,75,28.2,52.1,45.10645321010068,59.171100532063846,22.9,False,-2.799999999999997,medium
+2024,23,Creuse,Nouvelle Aquitaine,75,27.6,51.3,45.0,57.5,23.700000000000003,False,-0.8000000000000043,medium
+2016,24,Dordogne,Nouvelle Aquitaine,75,28.0,48.3,,,26.700000000000003,True,,high
+2017,24,Dordogne,Nouvelle Aquitaine,75,28.7,48.1,,,26.9,True,-0.19999999999999574,high
+2018,24,Dordogne,Nouvelle Aquitaine,75,29.2,49.5,,,25.5,True,1.3999999999999986,high
+2019,24,Dordogne,Nouvelle Aquitaine,75,30.4,50.0,,,25.0,False,0.5,medium
+2020,24,Dordogne,Nouvelle Aquitaine,75,37.1,56.6,,,18.4,False,6.600000000000001,medium
+2021,24,Dordogne,Nouvelle Aquitaine,75,35.0,54.9,,,20.1,False,-1.7000000000000028,medium
+2022,24,Dordogne,Nouvelle Aquitaine,75,31.7,53.9,47.9294992986522,60.2470812716277,21.1,False,-1.0,medium
+2023,24,Dordogne,Nouvelle Aquitaine,75,25.2,51.2,43.60826811157937,59.225720288604045,23.799999999999997,False,-2.6999999999999957,medium
+2024,24,Dordogne,Nouvelle Aquitaine,75,24.5,50.5,43.3,57.6,24.5,False,-0.7000000000000028,medium
+2016,25,Doubs,Bourgogne et Franche-Comté,27,29.4,49.5,,,25.5,True,,high
+2017,25,Doubs,Bourgogne et Franche-Comté,27,29.8,49.5,,,25.5,True,0.0,high
+2018,25,Doubs,Bourgogne et Franche-Comté,27,30.3,49.9,,,25.1,True,0.3999999999999986,high
+2019,25,Doubs,Bourgogne et Franche-Comté,27,32.3,51.9,,,23.1,False,2.0,medium
+2020,25,Doubs,Bourgogne et Franche-Comté,27,40.5,60.6,,,14.399999999999999,False,8.700000000000003,medium
+2021,25,Doubs,Bourgogne et Franche-Comté,27,35.2,56.1,,,18.9,False,-4.5,medium
+2022,25,Doubs,Bourgogne et Franche-Comté,27,31.0,54.9,49.07532330777584,60.94687595348679,20.1,False,-1.2000000000000028,medium
+2023,25,Doubs,Bourgogne et Franche-Comté,27,24.3,52.0,44.26286089012373,59.76441198410909,23.0,False,-2.8999999999999986,medium
+2024,25,Doubs,Bourgogne et Franche-Comté,27,24.0,51.5,44.2,58.4,23.5,False,-0.5,medium
+2016,26,Drôme,Auvergne et Rhône-Alpes,84,28.2,48.0,,,27.0,True,,high
+2017,26,Drôme,Auvergne et Rhône-Alpes,84,28.8,47.9,,,27.1,True,-0.10000000000000142,high
+2018,26,Drôme,Auvergne et Rhône-Alpes,84,29.2,50.1,,,24.9,False,2.200000000000003,medium
+2019,26,Drôme,Auvergne et Rhône-Alpes,84,29.2,49.7,,,25.299999999999997,True,-0.3999999999999986,high
+2020,26,Drôme,Auvergne et Rhône-Alpes,84,38.9,57.9,,,17.1,False,8.199999999999996,medium
+2021,26,Drôme,Auvergne et Rhône-Alpes,84,33.3,53.6,,,21.4,False,-4.299999999999997,medium
+2022,26,Drôme,Auvergne et Rhône-Alpes,84,30.8,51.7,45.18575247019251,58.4672435105068,23.299999999999997,False,-1.8999999999999986,medium
+2023,26,Drôme,Auvergne et Rhône-Alpes,84,24.1,51.2,42.68123700951062,59.94364453710339,23.799999999999997,False,-0.5,medium
+2024,26,Drôme,Auvergne et Rhône-Alpes,84,24.1,50.9,42.8,58.7,24.1,False,-0.30000000000000426,medium
+2016,27,Eure,Normandie,28,30.4,49.8,,,25.200000000000003,True,,high
+2017,27,Eure,Normandie,28,30.0,48.7,,,26.299999999999997,True,-1.0999999999999943,high
+2018,27,Eure,Normandie,28,28.6,49.3,,,25.700000000000003,True,0.5999999999999943,high
+2019,27,Eure,Normandie,28,33.0,51.3,,,23.700000000000003,False,2.0,medium
+2020,27,Eure,Normandie,28,41.3,60.5,,,14.5,False,9.200000000000003,medium
+2021,27,Eure,Normandie,28,37.1,57.9,,,17.1,False,-2.6000000000000014,medium
+2022,27,Eure,Normandie,28,34.4,57.1,53.16511167656206,61.81603126714207,17.9,False,-0.7999999999999972,medium
+2023,27,Eure,Normandie,28,27.6,54.6,49.029982363315696,61.29164251372456,20.4,False,-2.5,medium
+2024,27,Eure,Normandie,28,26.7,53.9,48.5,59.8,21.1,False,-0.7000000000000028,medium
+2016,28,Eure-et-Loir,Centre-Val de Loire,24,28.0,51.3,,,23.700000000000003,False,,medium
+2017,28,Eure-et-Loir,Centre-Val de Loire,24,27.6,50.5,,,24.5,False,-0.7999999999999972,medium
+2018,28,Eure-et-Loir,Centre-Val de Loire,24,28.8,52.2,,,22.799999999999997,False,1.7000000000000028,medium
+2019,28,Eure-et-Loir,Centre-Val de Loire,24,30.4,54.0,,,21.0,False,1.7999999999999972,medium
+2020,28,Eure-et-Loir,Centre-Val de Loire,24,38.9,61.7,,,13.299999999999997,False,7.700000000000003,medium
+2021,28,Eure-et-Loir,Centre-Val de Loire,24,35.4,59.6,,,15.399999999999999,False,-2.1000000000000014,medium
+2022,28,Eure-et-Loir,Centre-Val de Loire,24,32.5,59.0,54.55285498313758,63.97163421728699,16.0,False,-0.6000000000000014,medium
+2023,28,Eure-et-Loir,Centre-Val de Loire,24,25.9,56.3,49.63172109010557,63.491818462488425,18.700000000000003,False,-2.700000000000003,medium
+2024,28,Eure-et-Loir,Centre-Val de Loire,24,25.5,55.1,48.8,61.3,19.9,False,-1.1999999999999957,medium
+2016,29,Finistère,Bretagne,53,34.2,56.5,,,18.5,False,,medium
+2017,29,Finistère,Bretagne,53,34.6,56.5,,,18.5,False,0.0,medium
+2018,29,Finistère,Bretagne,53,34.3,58.3,,,16.700000000000003,False,1.7999999999999972,medium
+2019,29,Finistère,Bretagne,53,36.5,60.1,,,14.899999999999999,False,1.8000000000000043,medium
+2020,29,Finistère,Bretagne,53,44.4,69.3,,,5.700000000000003,False,9.199999999999996,low
+2021,29,Finistère,Bretagne,53,39.0,66.0,,,9.0,False,-3.299999999999997,low
+2022,29,Finistère,Bretagne,53,35.6,65.0,60.16313527099826,70.3799623297595,10.0,False,-1.0,low
+2023,29,Finistère,Bretagne,53,30.6,62.9,56.16454248636823,70.39091194330116,12.100000000000001,False,-2.1000000000000014,medium
+2024,29,Finistère,Bretagne,53,30.9,63.2,57.2,69.5,11.799999999999997,False,0.30000000000000426,medium
+2016,2A,Corse-du-Sud,Corse,94,16.4,33.6,,,41.4,True,,high
+2017,2A,Corse-du-Sud,Corse,94,15.9,33.6,,,41.4,True,0.0,high
+2018,2A,Corse-du-Sud,Corse,94,24.3,45.8,,,29.200000000000003,True,12.199999999999996,high
+2019,2A,Corse-du-Sud,Corse,94,25.8,46.3,,,28.700000000000003,True,0.5,high
+2020,2A,Corse-du-Sud,Corse,94,33.0,53.9,,,21.1,False,7.600000000000001,medium
+2021,2A,Corse-du-Sud,Corse,94,27.6,48.1,,,26.9,True,-5.799999999999997,high
+2022,2A,Corse-du-Sud,Corse,94,25.7,47.0,39.602728132623085,54.785979986378166,28.0,True,-1.1000000000000014,high
+2023,2A,Corse-du-Sud,Corse,94,17.4,45.1,36.341338783852834,54.454162617427926,29.9,True,-1.8999999999999986,high
+2024,2A,Corse-du-Sud,Corse,94,18.3,45.5,37.1,54.0,29.5,True,0.3999999999999986,high
+2016,2B,Haute-Corse,Corse,94,16.4,33.6,,,41.4,True,,high
+2017,2B,Haute-Corse,Corse,94,15.9,33.6,,,41.4,True,0.0,high
+2018,2B,Haute-Corse,Corse,94,26.5,48.6,,,26.4,True,15.0,high
+2019,2B,Haute-Corse,Corse,94,27.4,47.3,,,27.700000000000003,True,-1.3000000000000043,high
+2020,2B,Haute-Corse,Corse,94,36.0,56.0,,,19.0,False,8.700000000000003,medium
+2021,2B,Haute-Corse,Corse,94,30.0,50.7,,,24.299999999999997,False,-5.299999999999997,medium
+2022,2B,Haute-Corse,Corse,94,27.8,50.2,42.33918660722409,58.47441506562679,24.799999999999997,False,-0.5,medium
+2023,2B,Haute-Corse,Corse,94,18.5,46.8,37.25920052241243,56.57667179093006,28.200000000000003,True,-3.4000000000000057,high
+2024,2B,Haute-Corse,Corse,94,18.8,46.5,37.3,55.7,28.5,True,-0.29999999999999716,high
+2018,3,Allier,Auvergne et Rhône-Alpes,84,30.7,52.3,,,22.700000000000003,False,,medium
+2016,30,Gard,Occitanie,76,28.6,49.8,,,25.200000000000003,True,,high
+2017,30,Gard,Occitanie,76,28.5,49.5,,,25.5,True,-0.29999999999999716,high
+2018,30,Gard,Occitanie,76,29.0,50.8,,,24.200000000000003,False,1.2999999999999972,medium
+2019,30,Gard,Occitanie,76,30.4,51.1,,,23.9,False,0.30000000000000426,medium
+2020,30,Gard,Occitanie,76,37.5,59.5,,,15.5,False,8.399999999999999,medium
+2021,30,Gard,Occitanie,76,33.0,56.0,,,19.0,False,-3.5,medium
+2022,30,Gard,Occitanie,76,30.2,55.6,49.28234779651135,62.75760709814381,19.4,False,-0.3999999999999986,medium
+2023,30,Gard,Occitanie,76,24.0,52.9,44.67621984400508,61.863601193765895,22.1,False,-2.700000000000003,medium
+2024,30,Gard,Occitanie,76,24.0,52.8,45.2,60.5,22.200000000000003,False,-0.10000000000000142,medium
+2016,31,Haute-Garonne,Occitanie,76,24.9,51.3,,,23.700000000000003,False,,medium
+2017,31,Haute-Garonne,Occitanie,76,25.2,51.1,,,23.9,False,-0.19999999999999574,medium
+2018,31,Haute-Garonne,Occitanie,76,26.6,51.7,,,23.299999999999997,False,0.6000000000000014,medium
+2019,31,Haute-Garonne,Occitanie,76,29.2,53.9,,,21.1,False,2.1999999999999957,medium
+2020,31,Haute-Garonne,Occitanie,76,38.7,63.5,,,11.5,False,9.600000000000001,medium
+2021,31,Haute-Garonne,Occitanie,76,32.9,58.9,,,16.1,False,-4.600000000000001,medium
+2022,31,Haute-Garonne,Occitanie,76,29.9,58.7,51.73841682853744,65.800188398689,16.299999999999997,False,-0.19999999999999574,medium
+2023,31,Haute-Garonne,Occitanie,76,24.3,56.1,47.503636959121344,64.90359766316351,18.9,False,-2.6000000000000014,medium
+2024,31,Haute-Garonne,Occitanie,76,25.0,56.3,48.2,64.2,18.700000000000003,False,0.19999999999999574,medium
+2016,32,Gers,Occitanie,76,29.2,49.4,,,25.6,True,,high
+2017,32,Gers,Occitanie,76,29.3,49.4,,,25.6,True,0.0,high
+2018,32,Gers,Occitanie,76,30.3,50.5,,,24.5,False,1.1000000000000014,medium
+2019,32,Gers,Occitanie,76,31.5,51.3,,,23.700000000000003,False,0.7999999999999972,medium
+2020,32,Gers,Occitanie,76,40.2,59.9,,,15.100000000000001,False,8.600000000000001,medium
+2021,32,Gers,Occitanie,76,35.5,55.7,,,19.299999999999997,False,-4.199999999999996,medium
+2022,32,Gers,Occitanie,76,32.3,55.6,49.36544208120935,61.65944915988221,19.4,False,-0.10000000000000142,medium
+2023,32,Gers,Occitanie,76,26.3,52.5,44.80266421030256,60.11917206773991,22.5,False,-3.1000000000000014,medium
+2024,32,Gers,Occitanie,76,26.3,52.0,44.5,59.0,23.0,False,-0.5,medium
+2016,33,Gironde,Nouvelle Aquitaine,75,28.6,53.2,,,21.799999999999997,False,,medium
+2017,33,Gironde,Nouvelle Aquitaine,75,29.1,52.8,,,22.200000000000003,False,-0.4000000000000057,medium
+2018,33,Gironde,Nouvelle Aquitaine,75,30.4,54.9,,,20.1,False,2.1000000000000014,medium
+2019,33,Gironde,Nouvelle Aquitaine,75,32.5,55.7,,,19.299999999999997,False,0.8000000000000043,medium
+2020,33,Gironde,Nouvelle Aquitaine,75,41.3,64.5,,,10.5,False,8.799999999999997,medium
+2021,33,Gironde,Nouvelle Aquitaine,75,35.8,60.7,,,14.299999999999997,False,-3.799999999999997,medium
+2022,33,Gironde,Nouvelle Aquitaine,75,33.0,59.8,54.81892812968076,65.09564454640532,15.200000000000003,False,-0.9000000000000057,medium
+2023,33,Gironde,Nouvelle Aquitaine,75,26.7,59.0,51.57364898501024,66.84525351482468,16.0,False,-0.7999999999999972,medium
+2024,33,Gironde,Nouvelle Aquitaine,75,27.1,59.1,52.0,66.1,15.899999999999999,False,0.10000000000000142,medium
+2016,34,Hérault,Occitanie,76,26.9,50.5,,,24.5,False,,medium
+2017,34,Hérault,Occitanie,76,27.6,50.4,,,24.6,False,-0.10000000000000142,medium
+2018,34,Hérault,Occitanie,76,28.6,51.5,,,23.5,False,1.1000000000000014,medium
+2019,34,Hérault,Occitanie,76,30.6,53.0,,,22.0,False,1.5,medium
+2020,34,Hérault,Occitanie,76,37.3,60.7,,,14.299999999999997,False,7.700000000000003,medium
+2021,34,Hérault,Occitanie,76,32.6,57.4,,,17.6,False,-3.3000000000000043,medium
+2022,34,Hérault,Occitanie,76,29.6,56.9,49.99792691691083,64.15890706453352,18.1,False,-0.5,medium
+2023,34,Hérault,Occitanie,76,23.8,54.3,45.78588179124598,63.0310480873692,20.700000000000003,False,-2.6000000000000014,medium
+2024,34,Hérault,Occitanie,76,24.2,54.5,46.3,62.3,20.5,False,0.20000000000000284,medium
+2016,35,Ille-et-Vilaine,Bretagne,53,30.4,50.5,,,24.5,False,,medium
+2017,35,Ille-et-Vilaine,Bretagne,53,30.9,50.5,,,24.5,False,0.0,medium
+2018,35,Ille-et-Vilaine,Bretagne,53,30.4,52.8,,,22.200000000000003,False,2.299999999999997,medium
+2019,35,Ille-et-Vilaine,Bretagne,53,32.4,54.5,,,20.5,False,1.7000000000000028,medium
+2020,35,Ille-et-Vilaine,Bretagne,53,40.4,64.3,,,10.700000000000003,False,9.799999999999997,medium
+2021,35,Ille-et-Vilaine,Bretagne,53,34.9,61.1,,,13.899999999999999,False,-3.1999999999999957,medium
+2022,35,Ille-et-Vilaine,Bretagne,53,32.4,60.8,55.72337115249889,66.22176492648543,14.200000000000003,False,-0.30000000000000426,medium
+2023,35,Ille-et-Vilaine,Bretagne,53,28.1,59.3,52.37022816215019,66.6082366991563,15.700000000000003,False,-1.5,medium
+2024,35,Ille-et-Vilaine,Bretagne,53,28.3,59.2,52.5,65.8,15.799999999999997,False,-0.09999999999999432,medium
+2016,36,Indre,Centre-Val de Loire,24,29.8,48.8,,,26.200000000000003,True,,high
+2017,36,Indre,Centre-Val de Loire,24,29.4,47.6,,,27.4,True,-1.1999999999999957,high
+2018,36,Indre,Centre-Val de Loire,24,30.5,48.4,,,26.6,True,0.7999999999999972,high
+2019,36,Indre,Centre-Val de Loire,24,31.4,49.7,,,25.299999999999997,True,1.3000000000000043,high
+2020,36,Indre,Centre-Val de Loire,24,40.2,58.4,,,16.6,False,8.699999999999996,medium
+2021,36,Indre,Centre-Val de Loire,24,37.2,55.3,,,19.700000000000003,False,-3.1000000000000014,medium
+2022,36,Indre,Centre-Val de Loire,24,34.4,53.8,48.5727818124408,58.92081677908158,21.200000000000003,False,-1.5,medium
+2023,36,Indre,Centre-Val de Loire,24,27.4,50.9,44.26512968299712,57.38743471677122,24.1,False,-2.8999999999999986,medium
+2024,36,Indre,Centre-Val de Loire,24,25.8,50.5,43.6,56.8,24.5,False,-0.3999999999999986,medium
+2016,37,Indre-et-Loire,Centre-Val de Loire,24,32.7,53.7,,,21.299999999999997,False,,medium
+2017,37,Indre-et-Loire,Centre-Val de Loire,24,33.1,53.1,,,21.9,False,-0.6000000000000014,medium
+2018,37,Indre-et-Loire,Centre-Val de Loire,24,34.6,54.5,,,20.5,False,1.3999999999999986,medium
+2019,37,Indre-et-Loire,Centre-Val de Loire,24,36.3,55.9,,,19.1,False,1.3999999999999986,medium
+2020,37,Indre-et-Loire,Centre-Val de Loire,24,45.2,65.2,,,9.799999999999997,False,9.300000000000004,low
+2021,37,Indre-et-Loire,Centre-Val de Loire,24,40.9,62.7,,,12.299999999999997,False,-2.5,medium
+2022,37,Indre-et-Loire,Centre-Val de Loire,24,38.3,62.4,57.2253859348199,67.63168086754455,12.600000000000001,False,-0.30000000000000426,medium
+2023,37,Indre-et-Loire,Centre-Val de Loire,24,31.3,60.2,53.154676360357314,67.257232563355,14.799999999999997,False,-2.1999999999999957,medium
+2024,37,Indre-et-Loire,Centre-Val de Loire,24,30.9,59.5,53.1,65.5,15.5,False,-0.7000000000000028,medium
+2016,38,Isère,Auvergne et Rhône-Alpes,84,29.8,49.8,,,25.200000000000003,True,,high
+2017,38,Isère,Auvergne et Rhône-Alpes,84,31.0,50.0,,,25.0,False,0.20000000000000284,medium
+2018,38,Isère,Auvergne et Rhône-Alpes,84,30.9,52.4,,,22.6,False,2.3999999999999986,medium
+2019,38,Isère,Auvergne et Rhône-Alpes,84,32.0,52.5,,,22.5,False,0.10000000000000142,medium
+2020,38,Isère,Auvergne et Rhône-Alpes,84,41.9,60.5,,,14.5,False,8.0,medium
+2021,38,Isère,Auvergne et Rhône-Alpes,84,36.7,57.2,,,17.799999999999997,False,-3.299999999999997,medium
+2022,38,Isère,Auvergne et Rhône-Alpes,84,33.8,57.4,52.09358455869149,63.07356485622034,17.6,False,0.19999999999999574,medium
+2023,38,Isère,Auvergne et Rhône-Alpes,84,27.6,55.2,48.01529334605294,62.73793055480421,19.799999999999997,False,-2.1999999999999957,medium
+2024,38,Isère,Auvergne et Rhône-Alpes,84,27.6,55.1,48.1,62.1,19.9,False,-0.10000000000000142,medium
+2016,39,Jura,Bourgogne et Franche-Comté,27,30.0,46.7,,,28.299999999999997,True,,high
+2017,39,Jura,Bourgogne et Franche-Comté,27,31.0,46.8,,,28.200000000000003,True,0.09999999999999432,high
+2018,39,Jura,Bourgogne et Franche-Comté,27,31.8,48.6,,,26.4,True,1.8000000000000043,high
+2019,39,Jura,Bourgogne et Franche-Comté,27,32.9,49.2,,,25.799999999999997,True,0.6000000000000014,high
+2020,39,Jura,Bourgogne et Franche-Comté,27,40.6,57.2,,,17.799999999999997,False,8.0,medium
+2021,39,Jura,Bourgogne et Franche-Comté,27,35.9,53.4,,,21.6,False,-3.8000000000000043,medium
+2022,39,Jura,Bourgogne et Franche-Comté,27,31.5,52.4,45.82011541134173,59.218827313211285,22.6,False,-1.0,medium
+2023,39,Jura,Bourgogne et Franche-Comté,27,24.2,49.7,41.48311983534544,58.01172142901677,25.299999999999997,True,-2.6999999999999957,high
+2024,39,Jura,Bourgogne et Franche-Comté,27,23.6,48.5,40.7,56.0,26.5,True,-1.2000000000000028,high
+2018,4,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,93,27.4,46.5,,,28.5,True,,high
+2016,40,Landes,Nouvelle Aquitaine,75,28.8,52.4,,,22.6,False,,medium
+2017,40,Landes,Nouvelle Aquitaine,75,29.3,51.8,,,23.200000000000003,False,-0.6000000000000014,medium
+2018,40,Landes,Nouvelle Aquitaine,75,30.3,53.7,,,21.299999999999997,False,1.9000000000000057,medium
+2019,40,Landes,Nouvelle Aquitaine,75,31.1,54.0,,,21.0,False,0.29999999999999716,medium
+2020,40,Landes,Nouvelle Aquitaine,75,38.3,61.5,,,13.5,False,7.5,medium
+2021,40,Landes,Nouvelle Aquitaine,75,34.6,59.3,,,15.700000000000003,False,-2.200000000000003,medium
+2022,40,Landes,Nouvelle Aquitaine,75,31.7,58.5,52.95455268263206,64.57521771498814,16.5,False,-0.7999999999999972,medium
+2023,40,Landes,Nouvelle Aquitaine,75,25.3,57.0,49.67574366597513,64.90427641391896,18.0,False,-1.5,medium
+2024,40,Landes,Nouvelle Aquitaine,75,25.2,56.5,49.5,63.6,18.5,False,-0.5,medium
+2016,41,Loir-et-Cher,Centre-Val de Loire,24,31.4,51.6,,,23.4,False,,medium
+2017,41,Loir-et-Cher,Centre-Val de Loire,24,31.2,50.9,,,24.1,False,-0.7000000000000028,medium
+2018,41,Loir-et-Cher,Centre-Val de Loire,24,31.6,52.2,,,22.799999999999997,False,1.3000000000000043,medium
+2019,41,Loir-et-Cher,Centre-Val de Loire,24,33.8,53.3,,,21.700000000000003,False,1.0999999999999943,medium
+2020,41,Loir-et-Cher,Centre-Val de Loire,24,42.0,61.8,,,13.200000000000003,False,8.5,medium
+2021,41,Loir-et-Cher,Centre-Val de Loire,24,38.7,59.7,,,15.299999999999997,False,-2.0999999999999943,medium
+2022,41,Loir-et-Cher,Centre-Val de Loire,24,35.6,58.5,53.40258686736671,63.67548613324833,16.5,False,-1.2000000000000028,medium
+2023,41,Loir-et-Cher,Centre-Val de Loire,24,28.3,56.1,49.07041865589423,63.11039484286866,18.9,False,-2.3999999999999986,medium
+2024,41,Loir-et-Cher,Centre-Val de Loire,24,27.9,55.5,49.0,61.6,19.5,False,-0.6000000000000014,medium
+2016,42,Loire,Auvergne et Rhône-Alpes,84,29.7,46.7,,,28.299999999999997,True,,high
+2017,42,Loire,Auvergne et Rhône-Alpes,84,29.9,47.1,,,27.9,True,0.3999999999999986,high
+2018,42,Loire,Auvergne et Rhône-Alpes,84,28.9,47.9,,,27.1,True,0.7999999999999972,high
+2019,42,Loire,Auvergne et Rhône-Alpes,84,30.1,49.8,,,25.200000000000003,True,1.8999999999999986,high
+2020,42,Loire,Auvergne et Rhône-Alpes,84,38.9,58.3,,,16.700000000000003,False,8.5,medium
+2021,42,Loire,Auvergne et Rhône-Alpes,84,34.5,55.3,,,19.700000000000003,False,-3.0,medium
+2022,42,Loire,Auvergne et Rhône-Alpes,84,31.1,54.7,48.13441534652916,61.09761435762749,20.299999999999997,False,-0.5999999999999943,medium
+2023,42,Loire,Auvergne et Rhône-Alpes,84,25.1,52.3,44.15939914260183,60.268434315766406,22.700000000000003,False,-2.4000000000000057,medium
+2024,42,Loire,Auvergne et Rhône-Alpes,84,25.1,51.9,44.0,59.1,23.1,False,-0.3999999999999986,medium
+2016,43,Haute-Loire,Auvergne et Rhône-Alpes,84,29.7,44.2,,,30.799999999999997,True,,high
+2017,43,Haute-Loire,Auvergne et Rhône-Alpes,84,30.2,44.2,,,30.799999999999997,True,0.0,high
+2018,43,Haute-Loire,Auvergne et Rhône-Alpes,84,29.9,45.9,,,29.1,True,1.6999999999999957,high
+2019,43,Haute-Loire,Auvergne et Rhône-Alpes,84,30.9,46.7,,,28.299999999999997,True,0.8000000000000043,high
+2020,43,Haute-Loire,Auvergne et Rhône-Alpes,84,41.6,55.8,,,19.200000000000003,False,9.099999999999994,medium
+2021,43,Haute-Loire,Auvergne et Rhône-Alpes,84,35.9,50.4,,,24.6,False,-5.399999999999999,medium
+2022,43,Haute-Loire,Auvergne et Rhône-Alpes,84,32.4,50.1,44.06402271773855,56.72173518214522,24.9,False,-0.29999999999999716,medium
+2023,43,Haute-Loire,Auvergne et Rhône-Alpes,84,24.7,47.8,40.10277695424449,55.93816371296264,27.200000000000003,True,-2.3000000000000043,high
+2024,43,Haute-Loire,Auvergne et Rhône-Alpes,84,23.7,47.2,39.7,54.9,27.799999999999997,True,-0.5999999999999943,high
+2016,44,Loire-Atlantique,Pays de la Loire,52,31.3,53.0,,,22.0,False,,medium
+2017,44,Loire-Atlantique,Pays de la Loire,52,32.1,53.1,,,21.9,False,0.10000000000000142,medium
+2018,44,Loire-Atlantique,Pays de la Loire,52,31.2,55.2,,,19.799999999999997,False,2.1000000000000014,medium
+2019,44,Loire-Atlantique,Pays de la Loire,52,33.1,55.7,,,19.299999999999997,False,0.5,medium
+2020,44,Loire-Atlantique,Pays de la Loire,52,40.2,64.9,,,10.099999999999994,False,9.200000000000003,medium
+2021,44,Loire-Atlantique,Pays de la Loire,52,34.7,61.6,,,13.399999999999999,False,-3.3000000000000043,medium
+2022,44,Loire-Atlantique,Pays de la Loire,52,32.4,60.9,56.09082540656644,66.11859149286006,14.100000000000001,False,-0.7000000000000028,medium
+2023,44,Loire-Atlantique,Pays de la Loire,52,28.0,59.8,52.66998059977399,67.32444953775845,15.200000000000003,False,-1.1000000000000014,medium
+2024,44,Loire-Atlantique,Pays de la Loire,52,28.2,60.4,53.4,67.5,14.600000000000001,False,0.6000000000000014,medium
+2016,45,Loiret,Centre-Val de Loire,24,30.3,54.2,,,20.799999999999997,False,,medium
+2017,45,Loiret,Centre-Val de Loire,24,30.0,53.7,,,21.299999999999997,False,-0.5,medium
+2018,45,Loiret,Centre-Val de Loire,24,30.2,54.9,,,20.1,False,1.1999999999999957,medium
+2019,45,Loiret,Centre-Val de Loire,24,33.0,57.0,,,18.0,False,2.1000000000000014,medium
+2020,45,Loiret,Centre-Val de Loire,24,40.5,64.6,,,10.400000000000006,False,7.599999999999994,medium
+2021,45,Loiret,Centre-Val de Loire,24,37.0,61.9,,,13.100000000000001,False,-2.6999999999999957,medium
+2022,45,Loiret,Centre-Val de Loire,24,33.7,60.9,55.92187301183357,66.19970394294174,14.100000000000001,False,-1.0,medium
+2023,45,Loiret,Centre-Val de Loire,24,27.6,58.7,51.38004807057395,66.42465980750083,16.299999999999997,False,-2.1999999999999957,medium
+2024,45,Loiret,Centre-Val de Loire,24,27.0,57.9,51.0,64.6,17.1,False,-0.8000000000000043,medium
+2016,46,Lot,Occitanie,76,27.7,47.3,,,27.700000000000003,True,,high
+2017,46,Lot,Occitanie,76,28.2,46.7,,,28.299999999999997,True,-0.5999999999999943,high
+2018,46,Lot,Occitanie,76,28.1,46.8,,,28.200000000000003,True,0.09999999999999432,high
+2019,46,Lot,Occitanie,76,31.1,48.8,,,26.200000000000003,True,2.0,high
+2020,46,Lot,Occitanie,76,37.2,56.3,,,18.700000000000003,False,7.5,medium
+2021,46,Lot,Occitanie,76,33.6,53.4,,,21.6,False,-2.8999999999999986,medium
+2022,46,Lot,Occitanie,76,31.2,52.7,45.64485848889518,59.95185468869679,22.299999999999997,False,-0.6999999999999957,medium
+2023,46,Lot,Occitanie,76,23.6,50.0,41.53401913012092,58.56258471006264,25.0,False,-2.700000000000003,medium
+2024,46,Lot,Occitanie,76,23.3,49.5,41.5,57.1,25.5,True,-0.5,high
+2016,47,Lot-et-Garonne,Nouvelle Aquitaine,75,25.4,45.9,,,29.1,True,,high
+2017,47,Lot-et-Garonne,Nouvelle Aquitaine,75,26.1,46.0,,,29.0,True,0.10000000000000142,high
+2018,47,Lot-et-Garonne,Nouvelle Aquitaine,75,26.1,47.0,,,28.0,True,1.0,high
+2019,47,Lot-et-Garonne,Nouvelle Aquitaine,75,27.6,48.6,,,26.4,True,1.6000000000000014,high
+2020,47,Lot-et-Garonne,Nouvelle Aquitaine,75,35.0,57.3,,,17.700000000000003,False,8.699999999999996,medium
+2021,47,Lot-et-Garonne,Nouvelle Aquitaine,75,31.0,54.1,,,20.9,False,-3.1999999999999957,medium
+2022,47,Lot-et-Garonne,Nouvelle Aquitaine,75,27.6,53.5,46.93928282891057,60.04776387499745,21.5,False,-0.6000000000000014,medium
+2023,47,Lot-et-Garonne,Nouvelle Aquitaine,75,21.9,50.4,42.25391863140984,58.35834995276582,24.6,False,-3.1000000000000014,medium
+2024,47,Lot-et-Garonne,Nouvelle Aquitaine,75,21.8,49.5,41.7,56.7,25.5,True,-0.8999999999999986,high
+2016,48,Lozère,Occitanie,76,33.0,48.6,,,26.4,True,,high
+2017,48,Lozère,Occitanie,76,33.6,46.7,,,28.299999999999997,True,-1.8999999999999986,high
+2018,48,Lozère,Occitanie,76,34.3,48.2,,,26.799999999999997,True,1.5,high
+2019,48,Lozère,Occitanie,76,34.6,49.8,,,25.200000000000003,True,1.5999999999999943,high
+2020,48,Lozère,Occitanie,76,38.8,54.5,,,20.5,False,4.700000000000003,medium
+2021,48,Lozère,Occitanie,76,38.2,53.4,,,21.6,False,-1.1000000000000014,medium
+2022,48,Lozère,Occitanie,76,35.8,53.3,47.46878327364244,59.47692307692307,21.700000000000003,False,-0.10000000000000142,medium
+2023,48,Lozère,Occitanie,76,27.3,51.1,43.7220602526725,58.95959699804667,23.9,False,-2.1999999999999957,medium
+2024,48,Lozère,Occitanie,76,26.6,50.1,43.1,57.0,24.9,False,-1.0,medium
+2016,49,Maine-et-Loire,Pays de la Loire,52,30.5,50.3,,,24.700000000000003,False,,medium
+2017,49,Maine-et-Loire,Pays de la Loire,52,31.3,50.8,,,24.200000000000003,False,0.5,medium
+2018,49,Maine-et-Loire,Pays de la Loire,52,30.6,52.6,,,22.4,False,1.8000000000000043,medium
+2019,49,Maine-et-Loire,Pays de la Loire,52,32.3,54.4,,,20.6,False,1.7999999999999972,medium
+2020,49,Maine-et-Loire,Pays de la Loire,52,39.5,63.7,,,11.299999999999997,False,9.300000000000004,medium
+2021,49,Maine-et-Loire,Pays de la Loire,52,35.6,60.6,,,14.399999999999999,False,-3.1000000000000014,medium
+2022,49,Maine-et-Loire,Pays de la Loire,52,33.0,60.0,54.42768775706281,65.8276287734261,15.0,False,-0.6000000000000014,medium
+2023,49,Maine-et-Loire,Pays de la Loire,52,27.3,58.7,50.86187990701346,66.85506384147179,16.299999999999997,False,-1.2999999999999972,medium
+2024,49,Maine-et-Loire,Pays de la Loire,52,27.3,58.1,50.9,65.2,16.9,False,-0.6000000000000014,medium
+2018,5,Hautes-Alpes,Provence-Alpes-Côte d'Azur,93,26.8,47.8,,,27.200000000000003,True,,high
+2016,50,Manche,Normandie,28,34.0,53.6,,,21.4,False,,medium
+2017,50,Manche,Normandie,28,34.3,53.3,,,21.700000000000003,False,-0.30000000000000426,medium
+2018,50,Manche,Normandie,28,33.3,54.2,,,20.799999999999997,False,0.9000000000000057,medium
+2019,50,Manche,Normandie,28,36.6,55.5,,,19.5,False,1.2999999999999972,medium
+2020,50,Manche,Normandie,28,45.4,64.0,,,11.0,False,8.5,medium
+2021,50,Manche,Normandie,28,40.5,60.6,,,14.399999999999999,False,-3.3999999999999986,medium
+2022,50,Manche,Normandie,28,37.8,59.0,54.9367889657553,63.16645660521147,16.0,False,-1.6000000000000014,medium
+2023,50,Manche,Normandie,28,30.3,58.0,51.09672832832239,65.19637831885477,17.0,False,-1.0,medium
+2024,50,Manche,Normandie,28,30.3,57.7,51.2,64.0,17.299999999999997,False,-0.29999999999999716,medium
+2016,51,Marne,Grand Est,44,34.6,55.6,,,19.4,False,,medium
+2017,51,Marne,Grand Est,44,34.3,54.9,,,20.1,False,-0.7000000000000028,medium
+2018,51,Marne,Grand Est,44,34.4,56.0,,,19.0,False,1.1000000000000014,medium
+2019,51,Marne,Grand Est,44,35.5,56.1,,,18.9,False,0.10000000000000142,medium
+2020,51,Marne,Grand Est,44,44.2,64.3,,,10.700000000000003,False,8.199999999999996,medium
+2021,51,Marne,Grand Est,44,40.5,62.8,,,12.200000000000003,False,-1.5,medium
+2022,51,Marne,Grand Est,44,37.2,61.6,57.7341403830893,66.09814589448064,13.399999999999999,False,-1.1999999999999957,medium
+2023,51,Marne,Grand Est,44,30.0,59.1,53.45423417139597,65.5181647772918,15.899999999999999,False,-2.5,medium
+2024,51,Marne,Grand Est,44,29.4,58.6,53.5,64.0,16.4,False,-0.5,medium
+2016,52,Haute-Marne,Grand Est,44,32.6,52.0,,,23.0,False,,medium
+2017,52,Haute-Marne,Grand Est,44,32.8,50.9,,,24.1,False,-1.1000000000000014,medium
+2018,52,Haute-Marne,Grand Est,44,32.9,51.9,,,23.1,False,1.0,medium
+2019,52,Haute-Marne,Grand Est,44,33.6,51.7,,,23.299999999999997,False,-0.19999999999999574,medium
+2020,52,Haute-Marne,Grand Est,44,41.6,59.2,,,15.799999999999997,False,7.5,medium
+2021,52,Haute-Marne,Grand Est,44,38.2,55.9,,,19.1,False,-3.3000000000000043,medium
+2022,52,Haute-Marne,Grand Est,44,35.3,55.4,50.19158701419008,61.05705541089945,19.6,False,-0.5,medium
+2023,52,Haute-Marne,Grand Est,44,26.7,52.6,45.2954898911353,60.38743844652977,22.4,False,-2.799999999999997,medium
+2024,52,Haute-Marne,Grand Est,44,25.2,51.1,44.2,58.1,23.9,False,-1.5,medium
+2016,53,Mayenne,Pays de la Loire,52,30.2,47.8,,,27.200000000000003,True,,high
+2017,53,Mayenne,Pays de la Loire,52,31.0,47.5,,,27.5,True,-0.29999999999999716,high
+2018,53,Mayenne,Pays de la Loire,52,30.5,49.4,,,25.6,True,1.8999999999999986,high
+2019,53,Mayenne,Pays de la Loire,52,32.2,50.4,,,24.6,False,1.0,medium
+2020,53,Mayenne,Pays de la Loire,52,39.6,60.1,,,14.899999999999999,False,9.700000000000003,medium
+2021,53,Mayenne,Pays de la Loire,52,35.2,57.6,,,17.4,False,-2.5,medium
+2022,53,Mayenne,Pays de la Loire,52,31.9,56.6,50.74444715645594,62.47549087293917,18.4,False,-1.0,medium
+2023,53,Mayenne,Pays de la Loire,52,26.0,54.5,47.090238396740624,61.88991585046213,20.5,False,-2.1000000000000014,medium
+2024,53,Mayenne,Pays de la Loire,52,25.8,53.4,46.5,59.9,21.6,False,-1.1000000000000014,medium
+2016,54,Meurthe-et-Moselle,Grand Est,44,34.9,57.3,,,17.700000000000003,False,,medium
+2017,54,Meurthe-et-Moselle,Grand Est,44,35.3,56.8,,,18.200000000000003,False,-0.5,medium
+2018,54,Meurthe-et-Moselle,Grand Est,44,35.8,57.9,,,17.1,False,1.1000000000000014,medium
+2019,54,Meurthe-et-Moselle,Grand Est,44,37.6,57.7,,,17.299999999999997,False,-0.19999999999999574,medium
+2020,54,Meurthe-et-Moselle,Grand Est,44,45.0,65.0,,,10.0,False,7.299999999999997,low
+2021,54,Meurthe-et-Moselle,Grand Est,44,40.9,60.5,,,14.5,False,-4.5,medium
+2022,54,Meurthe-et-Moselle,Grand Est,44,37.5,59.3,56.00315314793133,62.87387523249384,15.700000000000003,False,-1.2000000000000028,medium
+2023,54,Meurthe-et-Moselle,Grand Est,44,30.0,59.2,53.028688884154064,65.93776052699913,15.799999999999997,False,-0.09999999999999432,medium
+2024,54,Meurthe-et-Moselle,Grand Est,44,29.9,58.9,52.8,65.1,16.1,False,-0.30000000000000426,medium
+2016,55,Meuse,Grand Est,44,32.9,52.2,,,22.799999999999997,False,,medium
+2017,55,Meuse,Grand Est,44,33.4,51.8,,,23.200000000000003,False,-0.4000000000000057,medium
+2018,55,Meuse,Grand Est,44,33.7,53.1,,,21.9,False,1.3000000000000043,medium
+2019,55,Meuse,Grand Est,44,35.2,53.7,,,21.299999999999997,False,0.6000000000000014,medium
+2020,55,Meuse,Grand Est,44,41.7,61.0,,,14.0,False,7.299999999999997,medium
+2021,55,Meuse,Grand Est,44,38.7,59.1,,,15.899999999999999,False,-1.8999999999999986,medium
+2022,55,Meuse,Grand Est,44,35.7,57.7,53.53221378976264,62.54767353165522,17.299999999999997,False,-1.3999999999999986,medium
+2023,55,Meuse,Grand Est,44,27.7,54.9,48.79328006556033,62.070134650779806,20.1,False,-2.8000000000000043,medium
+2024,55,Meuse,Grand Est,44,27.1,53.9,48.3,60.0,21.1,False,-1.0,medium
+2016,56,Morbihan,Bretagne,53,29.6,51.1,,,23.9,False,,medium
+2017,56,Morbihan,Bretagne,53,29.9,50.9,,,24.1,False,-0.20000000000000284,medium
+2018,56,Morbihan,Bretagne,53,29.8,52.8,,,22.200000000000003,False,1.8999999999999986,medium
+2019,56,Morbihan,Bretagne,53,31.5,54.3,,,20.700000000000003,False,1.5,medium
+2020,56,Morbihan,Bretagne,53,39.2,63.8,,,11.200000000000003,False,9.5,medium
+2021,56,Morbihan,Bretagne,53,33.7,59.9,,,15.100000000000001,False,-3.8999999999999986,medium
+2022,56,Morbihan,Bretagne,53,31.1,59.7,53.77337238116693,66.40170071171087,15.299999999999997,False,-0.19999999999999574,medium
+2023,56,Morbihan,Bretagne,53,25.6,57.5,49.70353488118696,66.26029519693387,17.5,False,-2.200000000000003,medium
+2024,56,Morbihan,Bretagne,53,25.5,57.5,50.2,65.1,17.5,False,0.0,medium
+2016,57,Moselle,Grand Est,44,31.2,53.3,,,21.700000000000003,False,,medium
+2017,57,Moselle,Grand Est,44,31.5,52.9,,,22.1,False,-0.3999999999999986,medium
+2018,57,Moselle,Grand Est,44,32.2,54.2,,,20.799999999999997,False,1.3000000000000043,medium
+2019,57,Moselle,Grand Est,44,34.0,55.3,,,19.700000000000003,False,1.0999999999999943,medium
+2020,57,Moselle,Grand Est,44,39.6,59.4,,,15.600000000000001,False,4.100000000000001,medium
+2021,57,Moselle,Grand Est,44,36.7,57.3,,,17.700000000000003,False,-2.1000000000000014,medium
+2022,57,Moselle,Grand Est,44,33.1,56.4,50.63748079877112,63.67658933089304,18.6,False,-0.8999999999999986,medium
+2023,57,Moselle,Grand Est,44,25.3,53.6,46.17098830480073,63.011687958684426,21.4,False,-2.799999999999997,medium
+2024,57,Moselle,Grand Est,44,25.0,53.1,46.2,61.1,21.9,False,-0.5,medium
+2016,58,Nièvre,Bourgogne et Franche-Comté,27,31.9,52.0,,,23.0,False,,medium
+2017,58,Nièvre,Bourgogne et Franche-Comté,27,32.0,51.2,,,23.799999999999997,False,-0.7999999999999972,medium
+2018,58,Nièvre,Bourgogne et Franche-Comté,27,32.8,52.4,,,22.6,False,1.1999999999999957,medium
+2019,58,Nièvre,Bourgogne et Franche-Comté,27,33.2,53.4,,,21.6,False,1.0,medium
+2020,58,Nièvre,Bourgogne et Franche-Comté,27,41.6,60.8,,,14.200000000000003,False,7.399999999999999,medium
+2021,58,Nièvre,Bourgogne et Franche-Comté,27,38.0,58.8,,,16.200000000000003,False,-2.0,medium
+2022,58,Nièvre,Bourgogne et Franche-Comté,27,34.5,57.6,52.03277754927706,63.39696298011711,17.4,False,-1.1999999999999957,medium
+2023,58,Nièvre,Bourgogne et Franche-Comté,27,27.3,55.2,48.08442303280569,62.55192281924159,19.799999999999997,False,-2.3999999999999986,medium
+2024,58,Nièvre,Bourgogne et Franche-Comté,27,26.4,53.6,46.8,60.1,21.4,False,-1.6000000000000014,medium
+2016,59,Nord,Hauts-de-France,32,34.7,53.4,,,21.6,False,,medium
+2017,59,Nord,Hauts-de-France,32,33.9,52.0,,,23.0,False,-1.3999999999999986,medium
+2018,59,Nord,Hauts-de-France,32,33.0,53.7,,,21.299999999999997,False,1.7000000000000028,medium
+2019,59,Nord,Hauts-de-France,32,35.1,53.1,,,21.9,False,-0.6000000000000014,medium
+2020,59,Nord,Hauts-de-France,32,42.8,61.1,,,13.899999999999999,False,8.0,medium
+2021,59,Nord,Hauts-de-France,32,39.0,59.4,,,15.600000000000001,False,-1.7000000000000028,medium
+2022,59,Nord,Hauts-de-France,32,36.0,58.8,55.228558892863255,63.12802021468885,16.200000000000003,False,-0.6000000000000014,medium
+2023,59,Nord,Hauts-de-France,32,29.4,56.6,51.403785428733975,63.0174413210873,18.4,False,-2.1999999999999957,medium
+2024,59,Nord,Hauts-de-France,32,29.2,55.8,51.2,61.0,19.200000000000003,False,-0.8000000000000043,medium
+2018,6,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,93,25.4,48.0,,,27.0,True,,high
+2016,60,Oise,Hauts-de-France,32,27.6,49.1,,,25.9,True,,high
+2017,60,Oise,Hauts-de-France,32,27.4,48.2,,,26.799999999999997,True,-0.8999999999999986,high
+2018,60,Oise,Hauts-de-France,32,27.4,50.0,,,25.0,False,1.7999999999999972,medium
+2019,60,Oise,Hauts-de-France,32,29.9,50.0,,,25.0,False,0.0,medium
+2020,60,Oise,Hauts-de-France,32,38.0,58.7,,,16.299999999999997,False,8.700000000000003,medium
+2021,60,Oise,Hauts-de-France,32,35.1,57.0,,,18.0,False,-1.7000000000000028,medium
+2022,60,Oise,Hauts-de-France,32,31.6,56.1,51.87373766518553,61.40832190214907,18.9,False,-0.8999999999999986,medium
+2023,60,Oise,Hauts-de-France,32,25.2,53.5,47.50309241915533,60.829624966016574,21.5,False,-2.6000000000000014,medium
+2024,60,Oise,Hauts-de-France,32,24.5,52.8,47.2,59.1,22.200000000000003,False,-0.7000000000000028,medium
+2016,61,Orne,Normandie,28,31.0,49.7,,,25.299999999999997,True,,high
+2017,61,Orne,Normandie,28,31.1,49.2,,,25.799999999999997,True,-0.5,high
+2018,61,Orne,Normandie,28,30.3,49.4,,,25.6,True,0.19999999999999574,high
+2019,61,Orne,Normandie,28,33.0,50.8,,,24.200000000000003,False,1.3999999999999986,medium
+2020,61,Orne,Normandie,28,41.4,59.3,,,15.700000000000003,False,8.5,medium
+2021,61,Orne,Normandie,28,36.6,56.7,,,18.299999999999997,False,-2.5999999999999943,medium
+2022,61,Orne,Normandie,28,34.2,56.0,50.49268054233451,61.63583509513742,19.0,False,-0.7000000000000028,medium
+2023,61,Orne,Normandie,28,27.7,53.2,45.86693283601692,60.61090250592528,21.799999999999997,False,-2.799999999999997,medium
+2024,61,Orne,Normandie,28,26.7,52.2,45.2,58.9,22.799999999999997,False,-1.0,medium
+2016,62,Pas-de-Calais,Hauts-de-France,32,38.1,54.8,,,20.200000000000003,False,,medium
+2017,62,Pas-de-Calais,Hauts-de-France,32,37.5,53.7,,,21.299999999999997,False,-1.0999999999999943,medium
+2018,62,Pas-de-Calais,Hauts-de-France,32,36.8,55.7,,,19.299999999999997,False,2.0,medium
+2019,62,Pas-de-Calais,Hauts-de-France,32,38.0,54.1,,,20.9,False,-1.6000000000000014,medium
+2020,62,Pas-de-Calais,Hauts-de-France,32,46.9,62.6,,,12.399999999999999,False,8.5,medium
+2021,62,Pas-de-Calais,Hauts-de-France,32,43.5,61.0,,,14.0,False,-1.6000000000000014,medium
+2022,62,Pas-de-Calais,Hauts-de-France,32,39.8,60.5,57.44053550285453,64.69418279022403,14.5,False,-0.5,medium
+2023,62,Pas-de-Calais,Hauts-de-France,32,32.6,58.2,53.57258596891315,64.21206140872309,16.799999999999997,False,-2.299999999999997,medium
+2024,62,Pas-de-Calais,Hauts-de-France,32,31.6,57.3,53.3,62.2,17.700000000000003,False,-0.9000000000000057,medium
+2016,63,Puy-de-Dôme,Auvergne et Rhône-Alpes,84,32.5,51.9,,,23.1,False,,medium
+2017,63,Puy-de-Dôme,Auvergne et Rhône-Alpes,84,33.4,52.3,,,22.700000000000003,False,0.3999999999999986,medium
+2018,63,Puy-de-Dôme,Auvergne et Rhône-Alpes,84,32.2,53.7,,,21.299999999999997,False,1.4000000000000057,medium
+2019,63,Puy-de-Dôme,Auvergne et Rhône-Alpes,84,33.1,54.5,,,20.5,False,0.7999999999999972,medium
+2020,63,Puy-de-Dôme,Auvergne et Rhône-Alpes,84,44.1,62.8,,,12.200000000000003,False,8.299999999999997,medium
+2021,63,Puy-de-Dôme,Auvergne et Rhône-Alpes,84,39.7,59.7,,,15.299999999999997,False,-3.0999999999999943,medium
+2022,63,Puy-de-Dôme,Auvergne et Rhône-Alpes,84,35.9,59.6,54.051819864281306,65.64433575218163,15.399999999999999,False,-0.10000000000000142,medium
+2023,63,Puy-de-Dôme,Auvergne et Rhône-Alpes,84,29.1,56.7,49.4164349938638,64.26233817441019,18.299999999999997,False,-2.8999999999999986,medium
+2024,63,Puy-de-Dôme,Auvergne et Rhône-Alpes,84,28.9,56.7,49.6,63.6,18.299999999999997,False,0.0,medium
+2016,64,Pyrénées-Atlantiques,Nouvelle Aquitaine,75,26.8,51.9,,,23.1,False,,medium
+2017,64,Pyrénées-Atlantiques,Nouvelle Aquitaine,75,27.6,51.5,,,23.5,False,-0.3999999999999986,medium
+2018,64,Pyrénées-Atlantiques,Nouvelle Aquitaine,75,28.4,52.6,,,22.4,False,1.1000000000000014,medium
+2019,64,Pyrénées-Atlantiques,Nouvelle Aquitaine,75,30.6,54.1,,,20.9,False,1.5,medium
+2020,64,Pyrénées-Atlantiques,Nouvelle Aquitaine,75,38.9,63.1,,,11.899999999999999,False,9.0,medium
+2021,64,Pyrénées-Atlantiques,Nouvelle Aquitaine,75,33.9,59.3,,,15.700000000000003,False,-3.8000000000000043,medium
+2022,64,Pyrénées-Atlantiques,Nouvelle Aquitaine,75,31.3,59.4,52.569354247843606,66.30528231524178,15.600000000000001,False,0.10000000000000142,medium
+2023,64,Pyrénées-Atlantiques,Nouvelle Aquitaine,75,25.1,57.1,48.57357947842111,65.52308910979461,17.9,False,-2.299999999999997,medium
+2024,64,Pyrénées-Atlantiques,Nouvelle Aquitaine,75,25.4,57.0,49.1,64.4,18.0,False,-0.10000000000000142,medium
+2016,65,Hautes-Pyrénées,Occitanie,76,27.6,49.2,,,25.799999999999997,True,,high
+2017,65,Hautes-Pyrénées,Occitanie,76,27.1,48.9,,,26.1,True,-0.30000000000000426,high
+2018,65,Hautes-Pyrénées,Occitanie,76,28.3,49.2,,,25.799999999999997,True,0.30000000000000426,high
+2019,65,Hautes-Pyrénées,Occitanie,76,31.1,51.3,,,23.700000000000003,False,2.0999999999999943,medium
+2020,65,Hautes-Pyrénées,Occitanie,76,38.6,60.0,,,15.0,False,8.700000000000003,medium
+2021,65,Hautes-Pyrénées,Occitanie,76,34.4,55.3,,,19.700000000000003,False,-4.700000000000003,medium
+2022,65,Hautes-Pyrénées,Occitanie,76,31.3,55.3,48.284904750422,62.24051431489771,19.700000000000003,False,0.0,medium
+2023,65,Hautes-Pyrénées,Occitanie,76,25.1,52.6,43.95684992207316,61.16701417218143,22.4,False,-2.6999999999999957,medium
+2024,65,Hautes-Pyrénées,Occitanie,76,24.9,52.6,44.4,60.3,22.4,False,0.0,medium
+2016,66,Pyrénées-Orientales,Occitanie,76,24.8,48.2,,,26.799999999999997,True,,high
+2017,66,Pyrénées-Orientales,Occitanie,76,25.1,47.7,,,27.299999999999997,True,-0.5,high
+2018,66,Pyrénées-Orientales,Occitanie,76,26.8,48.9,,,26.1,True,1.1999999999999957,high
+2019,66,Pyrénées-Orientales,Occitanie,76,27.7,49.1,,,25.9,True,0.20000000000000284,high
+2020,66,Pyrénées-Orientales,Occitanie,76,33.5,55.9,,,19.1,False,6.799999999999997,medium
+2021,66,Pyrénées-Orientales,Occitanie,76,29.8,53.9,,,21.1,False,-2.0,medium
+2022,66,Pyrénées-Orientales,Occitanie,76,27.2,52.9,46.42084914441183,59.55307262569832,22.1,False,-1.0,medium
+2023,66,Pyrénées-Orientales,Occitanie,76,21.5,50.3,42.17199558985667,58.448672746874905,24.700000000000003,False,-2.6000000000000014,medium
+2024,66,Pyrénées-Orientales,Occitanie,76,21.1,49.6,41.6,57.1,25.4,True,-0.6999999999999957,high
+2016,67,Bas-Rhin,Grand Est,44,29.5,50.4,,,24.6,False,,medium
+2017,67,Bas-Rhin,Grand Est,44,30.2,50.2,,,24.799999999999997,False,-0.19999999999999574,medium
+2018,67,Bas-Rhin,Grand Est,44,30.6,51.1,,,23.9,False,0.8999999999999986,medium
+2019,67,Bas-Rhin,Grand Est,44,31.9,52.5,,,22.5,False,1.3999999999999986,medium
+2020,67,Bas-Rhin,Grand Est,44,38.8,59.6,,,15.399999999999999,False,7.100000000000001,medium
+2021,67,Bas-Rhin,Grand Est,44,35.2,55.6,,,19.4,False,-4.0,medium
+2022,67,Bas-Rhin,Grand Est,44,31.5,53.3,48.65419954599503,58.6160523259368,21.700000000000003,False,-2.3000000000000043,medium
+2023,67,Bas-Rhin,Grand Est,44,25.0,51.1,43.932116057640826,59.58605366915253,23.9,False,-2.1999999999999957,medium
+2024,67,Bas-Rhin,Grand Est,44,24.5,50.7,43.6,58.6,24.299999999999997,False,-0.3999999999999986,medium
+2016,68,Haut-Rhin,Grand Est,44,27.1,45.4,,,29.6,True,,high
+2017,68,Haut-Rhin,Grand Est,44,27.1,45.3,,,29.700000000000003,True,-0.10000000000000142,high
+2018,68,Haut-Rhin,Grand Est,44,27.4,46.3,,,28.700000000000003,True,1.0,high
+2019,68,Haut-Rhin,Grand Est,44,28.5,46.8,,,28.200000000000003,True,0.5,high
+2020,68,Haut-Rhin,Grand Est,44,34.1,53.2,,,21.799999999999997,False,6.400000000000006,medium
+2021,68,Haut-Rhin,Grand Est,44,30.6,48.8,,,26.200000000000003,True,-4.400000000000006,high
+2022,68,Haut-Rhin,Grand Est,44,28.1,47.9,42.46883733309675,54.43578590483199,27.1,True,-0.8999999999999986,high
+2023,68,Haut-Rhin,Grand Est,44,21.9,45.5,38.484746523104526,53.80277151144054,29.5,True,-2.3999999999999986,high
+2024,68,Haut-Rhin,Grand Est,44,21.2,44.9,38.1,52.4,30.1,True,-0.6000000000000014,high
+2016,69,Rhône,Auvergne et Rhône-Alpes,84,27.5,49.5,,,25.5,True,,high
+2017,69,Rhône,Auvergne et Rhône-Alpes,84,28.2,50.1,,,24.9,False,0.6000000000000014,medium
+2018,69,Rhône,Auvergne et Rhône-Alpes,84,28.3,52.4,,,22.6,False,2.299999999999997,medium
+2019,69,Rhône,Auvergne et Rhône-Alpes,84,29.4,53.5,,,21.5,False,1.1000000000000014,medium
+2020,69,Rhône,Auvergne et Rhône-Alpes,84,39.8,61.6,,,13.399999999999999,False,8.100000000000001,medium
+2021,69,Rhône,Auvergne et Rhône-Alpes,84,34.2,58.4,,,16.6,False,-3.200000000000003,medium
+2022,69,Rhône,Auvergne et Rhône-Alpes,84,31.9,58.5,52.071016433065175,64.60662367347865,16.5,False,0.10000000000000142,medium
+2023,69,Rhône,Auvergne et Rhône-Alpes,84,25.9,56.0,47.979455783959054,63.63108255877529,19.0,False,-2.5,medium
+2024,69,Rhône,Auvergne et Rhône-Alpes,84,26.2,56.2,48.6,63.1,18.799999999999997,False,0.20000000000000284,medium
+2018,7,Ardèche,Auvergne et Rhône-Alpes,84,26.5,47.3,,,27.700000000000003,True,,high
+2016,70,Haute-Saône,Bourgogne et Franche-Comté,27,29.9,48.1,,,26.9,True,,high
+2017,70,Haute-Saône,Bourgogne et Franche-Comté,27,30.8,47.9,,,27.1,True,-0.20000000000000284,high
+2018,70,Haute-Saône,Bourgogne et Franche-Comté,27,31.3,49.2,,,25.799999999999997,True,1.3000000000000043,high
+2019,70,Haute-Saône,Bourgogne et Franche-Comté,27,32.9,50.1,,,24.9,False,0.8999999999999986,medium
+2020,70,Haute-Saône,Bourgogne et Franche-Comté,27,39.6,57.7,,,17.299999999999997,False,7.600000000000001,medium
+2021,70,Haute-Saône,Bourgogne et Franche-Comté,27,36.3,54.8,,,20.200000000000003,False,-2.9000000000000057,medium
+2022,70,Haute-Saône,Bourgogne et Franche-Comté,27,32.6,53.2,48.13204813204813,59.06064553480967,21.799999999999997,False,-1.5999999999999943,medium
+2023,70,Haute-Saône,Bourgogne et Franche-Comté,27,24.6,49.7,42.98695021749637,57.2875958894196,25.299999999999997,True,-3.5,high
+2024,70,Haute-Saône,Bourgogne et Franche-Comté,27,24.0,48.1,41.4,54.9,26.9,True,-1.6000000000000014,high
+2016,71,Saône-et-Loire,Bourgogne et Franche-Comté,27,32.0,51.1,,,23.9,False,,medium
+2017,71,Saône-et-Loire,Bourgogne et Franche-Comté,27,32.3,50.9,,,24.1,False,-0.20000000000000284,medium
+2018,71,Saône-et-Loire,Bourgogne et Franche-Comté,27,33.0,52.4,,,22.6,False,1.5,medium
+2019,71,Saône-et-Loire,Bourgogne et Franche-Comté,27,34.5,52.6,,,22.4,False,0.20000000000000284,medium
+2020,71,Saône-et-Loire,Bourgogne et Franche-Comté,27,42.4,60.1,,,14.899999999999999,False,7.5,medium
+2021,71,Saône-et-Loire,Bourgogne et Franche-Comté,27,38.1,57.5,,,17.5,False,-2.6000000000000014,medium
+2022,71,Saône-et-Loire,Bourgogne et Franche-Comté,27,34.7,56.7,50.771201639764286,62.83806079484708,18.299999999999997,False,-0.7999999999999972,medium
+2023,71,Saône-et-Loire,Bourgogne et Franche-Comté,27,27.7,54.0,46.27802452062445,61.78793954971808,21.0,False,-2.700000000000003,medium
+2024,71,Saône-et-Loire,Bourgogne et Franche-Comté,27,26.9,53.1,45.7,60.0,21.9,False,-0.8999999999999986,medium
+2016,72,Sarthe,Pays de la Loire,52,31.0,50.1,,,24.9,False,,medium
+2017,72,Sarthe,Pays de la Loire,52,31.0,50.0,,,25.0,False,-0.10000000000000142,medium
+2018,72,Sarthe,Pays de la Loire,52,30.3,51.8,,,23.200000000000003,False,1.7999999999999972,medium
+2019,72,Sarthe,Pays de la Loire,52,31.7,52.7,,,22.299999999999997,False,0.9000000000000057,medium
+2020,72,Sarthe,Pays de la Loire,52,38.8,62.1,,,12.899999999999999,False,9.399999999999999,medium
+2021,72,Sarthe,Pays de la Loire,52,35.3,59.9,,,15.100000000000001,False,-2.200000000000003,medium
+2022,72,Sarthe,Pays de la Loire,52,32.5,58.1,53.94902522686813,62.24802614454696,16.9,False,-1.7999999999999972,medium
+2023,72,Sarthe,Pays de la Loire,52,26.8,56.7,49.84612653133693,63.64939953396666,18.299999999999997,False,-1.3999999999999986,medium
+2024,72,Sarthe,Pays de la Loire,52,26.2,56.2,49.2,63.0,18.799999999999997,False,-0.5,medium
+2016,73,Savoie,Auvergne et Rhône-Alpes,84,27.6,46.7,,,28.299999999999997,True,,high
+2017,73,Savoie,Auvergne et Rhône-Alpes,84,28.5,46.4,,,28.6,True,-0.30000000000000426,high
+2018,73,Savoie,Auvergne et Rhône-Alpes,84,28.8,48.6,,,26.4,True,2.200000000000003,high
+2019,73,Savoie,Auvergne et Rhône-Alpes,84,30.5,49.5,,,25.5,True,0.8999999999999986,high
+2020,73,Savoie,Auvergne et Rhône-Alpes,84,38.2,56.8,,,18.200000000000003,False,7.299999999999997,medium
+2021,73,Savoie,Auvergne et Rhône-Alpes,84,35.1,52.1,,,22.9,False,-4.699999999999996,medium
+2022,73,Savoie,Auvergne et Rhône-Alpes,84,32.1,52.1,45.77611015992132,58.84472269800957,22.9,False,0.0,medium
+2023,73,Savoie,Auvergne et Rhône-Alpes,84,25.3,52.2,43.87223974763407,60.94259212835297,22.799999999999997,False,0.10000000000000142,medium
+2024,73,Savoie,Auvergne et Rhône-Alpes,84,25.7,51.8,44.2,59.3,23.200000000000003,False,-0.4000000000000057,medium
+2016,74,Haute-Savoie,Auvergne et Rhône-Alpes,84,24.9,43.4,,,31.6,True,,high
+2017,74,Haute-Savoie,Auvergne et Rhône-Alpes,84,25.7,43.6,,,31.4,True,0.20000000000000284,high
+2018,74,Haute-Savoie,Auvergne et Rhône-Alpes,84,25.6,44.9,,,30.1,True,1.2999999999999972,high
+2019,74,Haute-Savoie,Auvergne et Rhône-Alpes,84,27.5,47.1,,,27.9,True,2.200000000000003,high
+2020,74,Haute-Savoie,Auvergne et Rhône-Alpes,84,35.6,55.0,,,20.0,False,7.899999999999999,medium
+2021,74,Haute-Savoie,Auvergne et Rhône-Alpes,84,30.9,51.3,,,23.700000000000003,False,-3.700000000000003,medium
+2022,74,Haute-Savoie,Auvergne et Rhône-Alpes,84,28.4,50.8,44.3534906588004,57.74742199008973,24.200000000000003,False,-0.5,medium
+2023,74,Haute-Savoie,Auvergne et Rhône-Alpes,84,22.3,48.6,40.63543899885327,57.03284530276136,26.4,True,-2.1999999999999957,high
+2024,74,Haute-Savoie,Auvergne et Rhône-Alpes,84,22.2,48.2,40.6,55.8,26.799999999999997,True,-0.3999999999999986,high
+2016,75,Paris,Île-de-France,11,22.9,43.9,,,31.1,True,,high
+2017,75,Paris,Île-de-France,11,23.4,43.7,,,31.299999999999997,True,-0.19999999999999574,high
+2018,75,Paris,Île-de-France,11,24.6,45.6,,,29.4,True,1.8999999999999986,high
+2019,75,Paris,Île-de-France,11,28.1,48.1,,,26.9,True,2.5,high
+2020,75,Paris,Île-de-France,11,35.3,55.8,,,19.200000000000003,False,7.699999999999996,medium
+2021,75,Paris,Île-de-France,11,30.9,52.8,,,22.200000000000003,False,-3.0,medium
+2022,75,Paris,Île-de-France,11,29.9,53.8,47.73063150116524,59.95027763267359,21.200000000000003,False,1.0,medium
+2023,75,Paris,Île-de-France,11,24.4,51.9,44.18613847682414,59.6648403178834,23.1,False,-1.8999999999999986,medium
+2024,75,Paris,Île-de-France,11,26.3,53.4,45.9,60.3,21.6,False,1.5,medium
+2016,76,Seine-Maritime,Normandie,28,35.1,57.0,,,18.0,False,,medium
+2017,76,Seine-Maritime,Normandie,28,34.9,56.2,,,18.799999999999997,False,-0.7999999999999972,medium
+2018,76,Seine-Maritime,Normandie,28,33.2,57.3,,,17.700000000000003,False,1.0999999999999943,medium
+2019,76,Seine-Maritime,Normandie,28,37.3,57.3,,,17.700000000000003,False,0.0,medium
+2020,76,Seine-Maritime,Normandie,28,45.2,65.9,,,9.099999999999994,False,8.600000000000009,low
+2021,76,Seine-Maritime,Normandie,28,41.1,64.2,,,10.799999999999997,False,-1.7000000000000028,medium
+2022,76,Seine-Maritime,Normandie,28,38.2,63.5,59.41593905212032,68.18903830732219,11.5,False,-0.7000000000000028,medium
+2023,76,Seine-Maritime,Normandie,28,31.7,61.4,55.55780465843496,67.94659836224628,13.600000000000001,False,-2.1000000000000014,medium
+2024,76,Seine-Maritime,Normandie,28,31.0,60.4,54.9,66.0,14.600000000000001,False,-1.0,medium
+2016,77,Seine-et-Marne,Île-de-France,11,26.1,49.9,,,25.1,True,,high
+2017,77,Seine-et-Marne,Île-de-France,11,26.2,49.4,,,25.6,True,-0.5,high
+2018,77,Seine-et-Marne,Île-de-France,11,26.6,51.1,,,23.9,False,1.7000000000000028,medium
+2019,77,Seine-et-Marne,Île-de-France,11,29.1,52.0,,,23.0,False,0.8999999999999986,medium
+2020,77,Seine-et-Marne,Île-de-France,11,36.1,60.1,,,14.899999999999999,False,8.100000000000001,medium
+2021,77,Seine-et-Marne,Île-de-France,11,31.6,58.0,,,17.0,False,-2.1000000000000014,medium
+2022,77,Seine-et-Marne,Île-de-France,11,29.0,57.2,52.01348815114205,63.71071386844257,17.799999999999997,False,-0.7999999999999972,medium
+2023,77,Seine-et-Marne,Île-de-France,11,22.7,54.8,47.75356470271724,63.3476336792471,20.200000000000003,False,-2.4000000000000057,medium
+2024,77,Seine-et-Marne,Île-de-France,11,22.4,54.2,47.4,61.8,20.799999999999997,False,-0.5999999999999943,medium
+2016,78,Yvelines,Île-de-France,11,24.5,50.2,,,24.799999999999997,False,,medium
+2017,78,Yvelines,Île-de-France,11,24.3,49.9,,,25.1,True,-0.30000000000000426,high
+2018,78,Yvelines,Île-de-France,11,25.5,51.9,,,23.1,False,2.0,medium
+2019,78,Yvelines,Île-de-France,11,27.9,52.3,,,22.700000000000003,False,0.3999999999999986,medium
+2020,78,Yvelines,Île-de-France,11,35.7,59.9,,,15.100000000000001,False,7.600000000000001,medium
+2021,78,Yvelines,Île-de-France,11,30.7,58.0,,,17.0,False,-1.8999999999999986,medium
+2022,78,Yvelines,Île-de-France,11,28.5,58.3,52.32662703856119,64.54582780620302,16.700000000000003,False,0.29999999999999716,medium
+2023,78,Yvelines,Île-de-France,11,23.3,55.7,47.866860801903776,63.53710062823414,19.299999999999997,False,-2.5999999999999943,medium
+2024,78,Yvelines,Île-de-France,11,23.9,55.9,48.6,62.9,19.1,False,0.19999999999999574,medium
+2016,79,Deux-Sèvres,Nouvelle Aquitaine,75,31.6,50.4,,,24.6,False,,medium
+2017,79,Deux-Sèvres,Nouvelle Aquitaine,75,32.0,49.7,,,25.299999999999997,True,-0.6999999999999957,high
+2018,79,Deux-Sèvres,Nouvelle Aquitaine,75,32.9,51.0,,,24.0,False,1.2999999999999972,medium
+2019,79,Deux-Sèvres,Nouvelle Aquitaine,75,33.7,51.7,,,23.299999999999997,False,0.7000000000000028,medium
+2020,79,Deux-Sèvres,Nouvelle Aquitaine,75,41.1,60.1,,,14.899999999999999,False,8.399999999999999,medium
+2021,79,Deux-Sèvres,Nouvelle Aquitaine,75,38.3,58.1,,,16.9,False,-2.0,medium
+2022,79,Deux-Sèvres,Nouvelle Aquitaine,75,35.1,57.3,52.178805876836506,62.450128092058286,17.700000000000003,False,-0.8000000000000043,medium
+2023,79,Deux-Sèvres,Nouvelle Aquitaine,75,27.8,54.9,47.95172602624318,61.9129256884035,20.1,False,-2.3999999999999986,medium
+2024,79,Deux-Sèvres,Nouvelle Aquitaine,75,26.9,53.8,47.2,60.0,21.200000000000003,False,-1.1000000000000014,medium
+2018,8,Ardennes,Grand Est,44,35.6,57.3,,,17.700000000000003,False,,medium
+2016,80,Somme,Hauts-de-France,32,35.2,54.3,,,20.700000000000003,False,,medium
+2017,80,Somme,Hauts-de-France,32,34.5,53.6,,,21.4,False,-0.6999999999999957,medium
+2018,80,Somme,Hauts-de-France,32,33.7,55.2,,,19.799999999999997,False,1.6000000000000014,medium
+2019,80,Somme,Hauts-de-France,32,35.2,54.8,,,20.200000000000003,False,-0.4000000000000057,medium
+2020,80,Somme,Hauts-de-France,32,45.3,64.7,,,10.299999999999997,False,9.900000000000006,medium
+2021,80,Somme,Hauts-de-France,32,41.8,62.6,,,12.399999999999999,False,-2.1000000000000014,medium
+2022,80,Somme,Hauts-de-France,32,38.1,61.6,58.32259211520512,65.4568921011874,13.399999999999999,False,-1.0,medium
+2023,80,Somme,Hauts-de-France,32,31.5,59.6,54.10663916775348,65.84391447082733,15.399999999999999,False,-2.0,medium
+2024,80,Somme,Hauts-de-France,32,30.5,58.5,53.6,63.7,16.5,False,-1.1000000000000014,medium
+2016,81,Tarn,Occitanie,76,27.0,49.7,,,25.299999999999997,True,,high
+2017,81,Tarn,Occitanie,76,27.4,49.0,,,26.0,True,-0.7000000000000028,high
+2018,81,Tarn,Occitanie,76,28.3,50.3,,,24.700000000000003,False,1.2999999999999972,medium
+2019,81,Tarn,Occitanie,76,30.2,51.4,,,23.6,False,1.1000000000000014,medium
+2020,81,Tarn,Occitanie,76,38.4,59.6,,,15.399999999999999,False,8.200000000000003,medium
+2021,81,Tarn,Occitanie,76,34.3,56.2,,,18.799999999999997,False,-3.3999999999999986,medium
+2022,81,Tarn,Occitanie,76,30.3,56.0,49.24901486741162,62.6958174904943,19.0,False,-0.20000000000000284,medium
+2023,81,Tarn,Occitanie,76,24.4,52.8,44.29260760470952,61.238884359416765,22.200000000000003,False,-3.200000000000003,medium
+2024,81,Tarn,Occitanie,76,24.6,52.7,44.5,60.4,22.299999999999997,False,-0.09999999999999432,medium
+2016,82,Tarn-et-Garonne,Occitanie,76,26.7,49.2,,,25.799999999999997,True,,high
+2017,82,Tarn-et-Garonne,Occitanie,76,26.9,48.4,,,26.6,True,-0.8000000000000043,high
+2018,82,Tarn-et-Garonne,Occitanie,76,28.5,49.8,,,25.200000000000003,True,1.3999999999999986,high
+2019,82,Tarn-et-Garonne,Occitanie,76,30.0,50.2,,,24.799999999999997,False,0.4000000000000057,medium
+2020,82,Tarn-et-Garonne,Occitanie,76,39.4,60.3,,,14.700000000000003,False,10.099999999999994,medium
+2021,82,Tarn-et-Garonne,Occitanie,76,33.6,55.8,,,19.200000000000003,False,-4.5,medium
+2022,82,Tarn-et-Garonne,Occitanie,76,30.3,54.6,48.56043156746273,60.993875543426526,20.4,False,-1.1999999999999957,medium
+2023,82,Tarn-et-Garonne,Occitanie,76,24.5,52.0,44.21217423335482,60.023592424918704,23.0,False,-2.6000000000000014,medium
+2024,82,Tarn-et-Garonne,Occitanie,76,24.2,51.8,44.7,58.8,23.200000000000003,False,-0.20000000000000284,medium
+2016,83,Var,Provence-Alpes-Côte d'Azur,93,26.0,48.9,,,26.1,True,,high
+2017,83,Var,Provence-Alpes-Côte d'Azur,93,25.8,48.3,,,26.700000000000003,True,-0.6000000000000014,high
+2018,83,Var,Provence-Alpes-Côte d'Azur,93,27.0,49.7,,,25.299999999999997,True,1.4000000000000057,high
+2019,83,Var,Provence-Alpes-Côte d'Azur,93,28.3,50.3,,,24.700000000000003,False,0.5999999999999943,medium
+2020,83,Var,Provence-Alpes-Côte d'Azur,93,34.9,57.7,,,17.299999999999997,False,7.400000000000006,medium
+2021,83,Var,Provence-Alpes-Côte d'Azur,93,29.8,53.3,,,21.700000000000003,False,-4.400000000000006,medium
+2022,83,Var,Provence-Alpes-Côte d'Azur,93,27.6,52.8,45.27554498103016,60.22106021229296,22.200000000000003,False,-0.5,medium
+2023,83,Var,Provence-Alpes-Côte d'Azur,93,21.5,50.3,41.30189767246802,58.99075330577208,24.700000000000003,False,-2.5,medium
+2024,83,Var,Provence-Alpes-Côte d'Azur,93,21.3,50.1,41.5,58.0,24.9,False,-0.19999999999999574,medium
+2016,84,Vaucluse,Provence-Alpes-Côte d'Azur,93,25.3,45.8,,,29.200000000000003,True,,high
+2017,84,Vaucluse,Provence-Alpes-Côte d'Azur,93,25.6,45.6,,,29.4,True,-0.19999999999999574,high
+2018,84,Vaucluse,Provence-Alpes-Côte d'Azur,93,26.4,47.3,,,27.700000000000003,True,1.6999999999999957,high
+2019,84,Vaucluse,Provence-Alpes-Côte d'Azur,93,27.5,47.7,,,27.299999999999997,True,0.4000000000000057,high
+2020,84,Vaucluse,Provence-Alpes-Côte d'Azur,93,34.3,54.9,,,20.1,False,7.199999999999996,medium
+2021,84,Vaucluse,Provence-Alpes-Côte d'Azur,93,29.1,51.3,,,23.700000000000003,False,-3.6000000000000014,medium
+2022,84,Vaucluse,Provence-Alpes-Côte d'Azur,93,27.0,51.1,43.87243063382172,58.73426081463296,23.9,False,-0.19999999999999574,medium
+2023,84,Vaucluse,Provence-Alpes-Côte d'Azur,93,21.1,48.8,40.15748031496063,57.832882829944765,26.200000000000003,True,-2.3000000000000043,high
+2024,84,Vaucluse,Provence-Alpes-Côte d'Azur,93,21.3,48.7,40.5,56.8,26.299999999999997,True,-0.09999999999999432,high
+2016,85,Vendée,Pays de la Loire,52,31.2,51.7,,,23.299999999999997,False,,medium
+2017,85,Vendée,Pays de la Loire,52,32.2,51.4,,,23.6,False,-0.30000000000000426,medium
+2018,85,Vendée,Pays de la Loire,52,31.8,53.3,,,21.700000000000003,False,1.8999999999999986,medium
+2019,85,Vendée,Pays de la Loire,52,32.8,53.9,,,21.1,False,0.6000000000000014,medium
+2020,85,Vendée,Pays de la Loire,52,39.1,62.6,,,12.399999999999999,False,8.700000000000003,medium
+2021,85,Vendée,Pays de la Loire,52,35.6,60.1,,,14.899999999999999,False,-2.5,medium
+2022,85,Vendée,Pays de la Loire,52,33.5,59.1,54.35885028549308,64.26915887850467,15.899999999999999,False,-1.0,medium
+2023,85,Vendée,Pays de la Loire,52,27.7,57.9,50.51541287492449,66.10240611300671,17.1,False,-1.2000000000000028,medium
+2024,85,Vendée,Pays de la Loire,52,27.3,57.5,50.5,64.8,17.5,False,-0.3999999999999986,medium
+2016,86,Vienne,Nouvelle Aquitaine,75,30.5,52.4,,,22.6,False,,medium
+2017,86,Vienne,Nouvelle Aquitaine,75,31.6,51.8,,,23.200000000000003,False,-0.6000000000000014,medium
+2018,86,Vienne,Nouvelle Aquitaine,75,33.1,53.9,,,21.1,False,2.1000000000000014,medium
+2019,86,Vienne,Nouvelle Aquitaine,75,35.5,54.4,,,20.6,False,0.5,medium
+2020,86,Vienne,Nouvelle Aquitaine,75,43.1,63.3,,,11.700000000000003,False,8.899999999999999,medium
+2021,86,Vienne,Nouvelle Aquitaine,75,38.9,60.8,,,14.200000000000003,False,-2.5,medium
+2022,86,Vienne,Nouvelle Aquitaine,75,36.2,60.2,54.94034930251692,65.66327025715673,14.799999999999997,False,-0.5999999999999943,medium
+2023,86,Vienne,Nouvelle Aquitaine,75,29.1,57.9,50.81307755071062,65.26891166422645,17.1,False,-2.3000000000000043,medium
+2024,86,Vienne,Nouvelle Aquitaine,75,29.1,57.2,50.7,63.6,17.799999999999997,False,-0.6999999999999957,medium
+2016,87,Haute-Vienne,Nouvelle Aquitaine,75,32.1,52.0,,,23.0,False,,medium
+2017,87,Haute-Vienne,Nouvelle Aquitaine,75,33.2,51.5,,,23.5,False,-0.5,medium
+2018,87,Haute-Vienne,Nouvelle Aquitaine,75,33.6,52.2,,,22.799999999999997,False,0.7000000000000028,medium
+2019,87,Haute-Vienne,Nouvelle Aquitaine,75,36.0,54.0,,,21.0,False,1.7999999999999972,medium
+2020,87,Haute-Vienne,Nouvelle Aquitaine,75,45.9,64.2,,,10.799999999999997,False,10.200000000000003,medium
+2021,87,Haute-Vienne,Nouvelle Aquitaine,75,40.2,60.6,,,14.399999999999999,False,-3.6000000000000014,medium
+2022,87,Haute-Vienne,Nouvelle Aquitaine,75,37.2,60.5,55.78315380540349,65.39645646013008,14.5,False,-0.10000000000000142,medium
+2023,87,Haute-Vienne,Nouvelle Aquitaine,75,29.7,57.9,50.99927212228346,64.82749952868724,17.1,False,-2.6000000000000014,medium
+2024,87,Haute-Vienne,Nouvelle Aquitaine,75,29.0,57.1,50.8,63.0,17.9,False,-0.7999999999999972,medium
+2016,88,Vosges,Grand Est,44,34.3,50.8,,,24.200000000000003,False,,medium
+2017,88,Vosges,Grand Est,44,35.4,50.9,,,24.1,False,0.10000000000000142,medium
+2018,88,Vosges,Grand Est,44,35.7,52.0,,,23.0,False,1.1000000000000014,medium
+2019,88,Vosges,Grand Est,44,37.0,53.0,,,22.0,False,1.0,medium
+2020,88,Vosges,Grand Est,44,42.8,60.2,,,14.799999999999997,False,7.200000000000003,medium
+2021,88,Vosges,Grand Est,44,39.3,57.3,,,17.700000000000003,False,-2.9000000000000057,medium
+2022,88,Vosges,Grand Est,44,35.7,56.2,51.28608118986469,61.76824861479162,18.799999999999997,False,-1.0999999999999943,medium
+2023,88,Vosges,Grand Est,44,28.3,53.2,46.477481293237325,60.70457660248489,21.799999999999997,False,-3.0,medium
+2024,88,Vosges,Grand Est,44,27.6,52.2,46.3,58.3,22.799999999999997,False,-1.0,medium
+2016,89,Yonne,Bourgogne et Franche-Comté,27,30.9,51.4,,,23.6,False,,medium
+2017,89,Yonne,Bourgogne et Franche-Comté,27,30.7,51.0,,,24.0,False,-0.3999999999999986,medium
+2018,89,Yonne,Bourgogne et Franche-Comté,27,31.4,52.0,,,23.0,False,1.0,medium
+2019,89,Yonne,Bourgogne et Franche-Comté,27,32.6,52.8,,,22.200000000000003,False,0.7999999999999972,medium
+2020,89,Yonne,Bourgogne et Franche-Comté,27,39.2,61.0,,,14.0,False,8.200000000000003,medium
+2021,89,Yonne,Bourgogne et Franche-Comté,27,36.2,58.1,,,16.9,False,-2.8999999999999986,medium
+2022,89,Yonne,Bourgogne et Franche-Comté,27,32.9,57.1,51.37640944326991,63.53241095958221,17.9,False,-1.0,medium
+2023,89,Yonne,Bourgogne et Franche-Comté,27,25.7,53.9,46.8469281812847,61.68666301588092,21.1,False,-3.200000000000003,medium
+2024,89,Yonne,Bourgogne et Franche-Comté,27,24.3,52.9,45.9,60.0,22.1,False,-1.0,medium
+2018,9,Ariège,Occitanie,76,23.3,46.9,,,28.1,True,,high
+2016,90,Territoire de Belfort,Bourgogne et Franche-Comté,27,27.8,45.2,,,29.799999999999997,True,,high
+2017,90,Territoire de Belfort,Bourgogne et Franche-Comté,27,28.0,45.3,,,29.700000000000003,True,0.09999999999999432,high
+2018,90,Territoire de Belfort,Bourgogne et Franche-Comté,27,28.5,47.0,,,28.0,True,1.7000000000000028,high
+2019,90,Territoire de Belfort,Bourgogne et Franche-Comté,27,29.9,46.6,,,28.4,True,-0.3999999999999986,high
+2020,90,Territoire de Belfort,Bourgogne et Franche-Comté,27,38.7,55.7,,,19.299999999999997,False,9.100000000000001,medium
+2021,90,Territoire de Belfort,Bourgogne et Franche-Comté,27,33.8,52.0,,,23.0,False,-3.700000000000003,medium
+2022,90,Territoire de Belfort,Bourgogne et Franche-Comté,27,29.9,50.7,46.797007606714025,55.14752260144369,24.299999999999997,False,-1.2999999999999972,medium
+2023,90,Territoire de Belfort,Bourgogne et Franche-Comté,27,23.1,48.1,42.39841046019741,54.27509293680297,26.9,True,-2.6000000000000014,high
+2024,90,Territoire de Belfort,Bourgogne et Franche-Comté,27,22.9,47.3,42.1,52.8,27.700000000000003,True,-0.8000000000000043,high
+2016,91,Essonne,Île-de-France,11,25.0,52.1,,,22.9,False,,medium
+2017,91,Essonne,Île-de-France,11,24.9,51.7,,,23.299999999999997,False,-0.3999999999999986,medium
+2018,91,Essonne,Île-de-France,11,25.9,53.2,,,21.799999999999997,False,1.5,medium
+2019,91,Essonne,Île-de-France,11,28.5,54.3,,,20.700000000000003,False,1.0999999999999943,medium
+2020,91,Essonne,Île-de-France,11,35.4,61.3,,,13.700000000000003,False,7.0,medium
+2021,91,Essonne,Île-de-France,11,30.9,59.2,,,15.799999999999997,False,-2.0999999999999943,medium
+2022,91,Essonne,Île-de-France,11,27.8,58.4,51.84168259351979,65.5591054313099,16.6,False,-0.8000000000000043,medium
+2023,91,Essonne,Île-de-France,11,22.7,55.9,47.58505062043426,64.66432131339783,19.1,False,-2.5,medium
+2024,91,Essonne,Île-de-France,11,23.0,55.5,47.7,63.4,19.5,False,-0.3999999999999986,medium
+2016,92,Hauts-de-Seine,Île-de-France,11,22.3,47.5,,,27.5,True,,high
+2017,92,Hauts-de-Seine,Île-de-France,11,22.7,47.4,,,27.6,True,-0.10000000000000142,high
+2018,92,Hauts-de-Seine,Île-de-France,11,24.1,48.3,,,26.700000000000003,True,0.8999999999999986,high
+2019,92,Hauts-de-Seine,Île-de-France,11,27.3,50.7,,,24.299999999999997,False,2.4000000000000057,medium
+2020,92,Hauts-de-Seine,Île-de-France,11,35.5,58.3,,,16.700000000000003,False,7.599999999999994,medium
+2021,92,Hauts-de-Seine,Île-de-France,11,30.5,55.6,,,19.4,False,-2.6999999999999957,medium
+2022,92,Hauts-de-Seine,Île-de-France,11,28.3,55.7,49.950293785981366,61.47230485371089,19.299999999999997,False,0.10000000000000142,medium
+2023,92,Hauts-de-Seine,Île-de-France,11,23.7,54.0,46.40238208233187,61.6364519636344,21.0,False,-1.7000000000000028,medium
+2024,92,Hauts-de-Seine,Île-de-France,11,24.6,54.4,47.4,61.1,20.6,False,0.3999999999999986,medium
+2016,93,Seine-Saint-Denis,Île-de-France,11,23.0,44.5,,,30.5,True,,high
+2017,93,Seine-Saint-Denis,Île-de-France,11,22.8,43.3,,,31.700000000000003,True,-1.2000000000000028,high
+2018,93,Seine-Saint-Denis,Île-de-France,11,23.0,44.0,,,31.0,True,0.7000000000000028,high
+2019,93,Seine-Saint-Denis,Île-de-France,11,25.1,45.1,,,29.9,True,1.1000000000000014,high
+2020,93,Seine-Saint-Denis,Île-de-France,11,30.2,50.3,,,24.700000000000003,False,5.199999999999996,medium
+2021,93,Seine-Saint-Denis,Île-de-France,11,25.8,48.0,,,27.0,True,-2.299999999999997,high
+2022,93,Seine-Saint-Denis,Île-de-France,11,23.9,47.0,41.61833662388944,54.232086558503454,28.0,True,-1.0,high
+2023,93,Seine-Saint-Denis,Île-de-France,11,19.5,44.4,37.79991978546544,53.3208586282786,30.6,True,-2.6000000000000014,high
+2024,93,Seine-Saint-Denis,Île-de-France,11,19.5,43.8,37.6,51.6,31.200000000000003,True,-0.6000000000000014,high
+2016,94,Val-de-Marne,Île-de-France,11,25.3,49.7,,,25.299999999999997,True,,high
+2017,94,Val-de-Marne,Île-de-France,11,25.0,49.1,,,25.9,True,-0.6000000000000014,high
+2018,94,Val-de-Marne,Île-de-France,11,25.8,50.5,,,24.5,False,1.3999999999999986,medium
+2019,94,Val-de-Marne,Île-de-France,11,28.1,51.5,,,23.5,False,1.0,medium
+2020,94,Val-de-Marne,Île-de-France,11,36.0,58.3,,,16.700000000000003,False,6.799999999999997,medium
+2021,94,Val-de-Marne,Île-de-France,11,30.8,56.0,,,19.0,False,-2.299999999999997,medium
+2022,94,Val-de-Marne,Île-de-France,11,28.6,55.8,49.915234517834,62.27321188522691,19.200000000000003,False,-0.20000000000000284,medium
+2023,94,Val-de-Marne,Île-de-France,11,23.0,53.5,45.8434193531832,61.971670958945616,21.5,False,-2.299999999999997,medium
+2024,94,Val-de-Marne,Île-de-France,11,23.5,53.6,46.5,61.0,21.4,False,0.10000000000000142,medium
+2016,95,Val-d'Oise,Île-de-France,11,23.2,47.8,,,27.200000000000003,True,,high
+2017,95,Val-d'Oise,Île-de-France,11,23.0,47.3,,,27.700000000000003,True,-0.5,high
+2018,95,Val-d'Oise,Île-de-France,11,24.2,48.9,,,26.1,True,1.6000000000000014,high
+2019,95,Val-d'Oise,Île-de-France,11,26.1,50.0,,,25.0,False,1.1000000000000014,medium
+2020,95,Val-d'Oise,Île-de-France,11,32.6,57.0,,,18.0,False,7.0,medium
+2021,95,Val-d'Oise,Île-de-France,11,27.8,54.1,,,20.9,False,-2.8999999999999986,medium
+2022,95,Val-d'Oise,Île-de-France,11,25.6,53.4,47.87860248245687,60.51513792859334,21.6,False,-0.7000000000000028,medium
+2023,95,Val-d'Oise,Île-de-France,11,20.2,51.0,43.83709686593482,59.913864502236216,24.0,False,-2.3999999999999986,medium
+2024,95,Val-d'Oise,Île-de-France,11,20.1,50.8,43.9,58.8,24.200000000000003,False,-0.20000000000000284,medium
+2016,971,Guadeloupe,Guadeloupe,1,9.3,16.2,,,58.8,True,,high
+2017,971,Guadeloupe,Guadeloupe,1,8.8,15.3,,,59.7,True,-0.8999999999999986,high
+2018,971,Guadeloupe,Guadeloupe,1,12.4,20.5,,,54.5,True,5.199999999999999,high
+2019,971,Guadeloupe,Guadeloupe,1,14.8,22.9,,,52.1,True,2.3999999999999986,high
+2020,971,Guadeloupe,Guadeloupe,1,17.2,27.5,,,47.5,True,4.600000000000001,high
+2021,971,Guadeloupe,Guadeloupe,1,10.6,18.7,,,56.3,True,-8.8,high
+2022,971,Guadeloupe,Guadeloupe,1,9.7,18.1,15.044062106588337,21.86236956808876,56.9,True,-0.5999999999999979,high
+2023,971,Guadeloupe,Guadeloupe,1,6.9,14.9,11.85400917090098,18.692672641012127,60.1,True,-3.200000000000001,high
+2024,971,Guadeloupe,Guadeloupe,1,7.2,15.1,12.5,18.2,59.9,True,0.1999999999999993,high
+2017,972,Martinique,Martinique,2,13.4,20.5,,,54.5,True,,high
+2018,972,Martinique,Martinique,2,8.6,14.2,,,60.8,True,-6.300000000000001,high
+2019,972,Martinique,Martinique,2,11.0,17.0,,,58.0,True,2.8000000000000007,high
+2020,972,Martinique,Martinique,2,12.2,18.8,,,56.2,True,1.8000000000000007,high
+2021,972,Martinique,Martinique,2,8.1,13.7,,,61.3,True,-5.100000000000001,high
+2022,972,Martinique,Martinique,2,7.7,13.9,11.55463988325178,16.767758800091364,61.1,True,0.20000000000000107,high
+2023,972,Martinique,Martinique,2,4.8,11.2,8.67968864737847,14.32400010209551,63.8,True,-2.700000000000001,high
+2024,972,Martinique,Martinique,2,5.0,11.5,9.3,14.1,63.5,True,0.3000000000000007,high
+2018,973,Guyane,Guyane,3,12.7,18.9,,,56.1,True,,high
+2019,973,Guyane,Guyane,3,14.0,21.3,,,53.7,True,2.400000000000002,high
+2020,973,Guyane,Guyane,3,14.0,21.9,,,53.1,True,0.5999999999999979,high
+2021,973,Guyane,Guyane,3,10.7,18.5,,,56.5,True,-3.3999999999999986,high
+2022,973,Guyane,Guyane,3,11.1,17.9,16.536278570332875,20.64676616915423,57.1,True,-0.6000000000000014,high
+2023,973,Guyane,Guyane,3,7.5,14.9,12.934919110585804,18.80955871573083,60.1,True,-2.9999999999999982,high
+2024,973,Guyane,Guyane,3,7.6,14.8,13.3,17.6,60.2,True,-0.09999999999999964,high
