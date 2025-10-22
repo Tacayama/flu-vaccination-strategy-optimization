@@ -320,7 +320,7 @@ export default function PlanningPage() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           <MetricCard
             title="Stock National"
-            value="230K"
+            value="175K"
             change={{ value: "-15% vs semaine dernière", type: 'decrease' }}
             icon={Package}
           />
