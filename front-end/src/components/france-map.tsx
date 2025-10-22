@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react'
+import L from 'leaflet'
 import dynamic from 'next/dynamic'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 
@@ -372,21 +373,31 @@ export default function FranceMap({
               onEachFeature={onEachFeature}
             />
             
-            {/* Marqueurs pour les données d'urgence si activées */}
-            {showEmergencyData && filteredData.map((dept) => (
-              <Marker
-                key={`emergency-${dept.code}`}
-                position={[dept.lat, dept.lng]}
-              >
-                <Tooltip>
-                  <div className="p-2">
-                    <h4 className="font-bold">{dept.name}</h4>
-                    <p className="text-sm">Urgences: {dept.emergencyRate}/100k</p>
-                    <p className="text-sm">SOS: {dept.sosRate}/100k</p>
-                  </div>
-                </Tooltip>
-              </Marker>
-            ))}
+            {/* Marqueurs pour les données d'urgence si activées (DivIcon) */}
+            {showEmergencyData && filteredData.map((dept) => {
+              const emergencyIcon = L.divIcon({
+                className: 'emergency-div-icon',
+                html: `<div class="w-3 h-3 bg-blue-500 rounded-full mr-2"></div>`,
+                iconSize: [12, 12],
+                iconAnchor: [6, 6]
+              })
+
+              return (
+                <Marker
+                  key={`emergency-${dept.code}`}
+                  position={[dept.lat, dept.lng]}
+                  icon={emergencyIcon}
+                >
+                  <Tooltip>
+                    <div className="p-2">
+                      <h4 className="font-bold">{dept.name}</h4>
+                      <p className="text-sm">Urgences: {dept.emergencyRate}/100k</p>
+                      <p className="text-sm">SOS: {dept.sosRate}/100k</p>
+                    </div>
+                  </Tooltip>
+                </Marker>
+              )
+            })}
           </MapContainer>
         </div>
         
